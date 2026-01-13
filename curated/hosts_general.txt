@@ -86,8 +86,10 @@
 0.0.0.0 0dax.com
 0.0.0.0 0e928d9197fj28422.sbs
 0.0.0.0 0ek38je.icu
+0.0.0.0 0ekhyff.lol
 0.0.0.0 0f36f3.r.axf8.net
 0.0.0.0 0g254fw.icu
+0.0.0.0 0gjsdga1.eu
 0.0.0.0 0koryu0.easter.ne.jp
 0.0.0.0 0latfee.ero-advertising.com
 0.0.0.0 0lx.mo0rd2r.digital
@@ -1321,6 +1323,7 @@
 0.0.0.0 8uch.jave.xyz
 0.0.0.0 8ue9q7i.com
 0.0.0.0 8vulkanvegas.com
+0.0.0.0 8whe5r.lat
 0.0.0.0 8wj2ywg.lat
 0.0.0.0 8wjeg5.lat
 0.0.0.0 8wjhuyge.sbs
@@ -6487,7 +6490,6 @@
 0.0.0.0 alebilet.65352.icu
 0.0.0.0 alebilet.6hs801nd81963uns7122.cfd
 0.0.0.0 alebilet.72648.me
-0.0.0.0 alebilet.72846.me
 0.0.0.0 alebilet.72848.me
 0.0.0.0 alebilet.73010.click
 0.0.0.0 alebilet.73284.click
@@ -6569,7 +6571,6 @@
 0.0.0.0 alebilet.oferta-4295512.icu
 0.0.0.0 alebilet.oferta-4968301.icu
 0.0.0.0 alebilet.oferta-7175768.icu
-0.0.0.0 alebilet.oferta-82615561.click
 0.0.0.0 alebilet.oferta-857891.icu
 0.0.0.0 alebilet.oferta-87491741.icu
 0.0.0.0 alebilet.oferta-882199.sbs
@@ -6706,7 +6707,6 @@
 0.0.0.0 alebilet.pl-oferta6728127.icu
 0.0.0.0 alebilet.pl-oferta6734153.icu
 0.0.0.0 alebilet.pl-oferta6734157.icu
-0.0.0.0 alebilet.pl-oferta674286.sbs
 0.0.0.0 alebilet.pl-oferta674892.sbs
 0.0.0.0 alebilet.pl-oferta674893.sbs
 0.0.0.0 alebilet.pl-oferta6783127.icu
@@ -6728,8 +6728,6 @@
 0.0.0.0 alebilet.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 alebilet.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 alebilet.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 alebilet.pl-oferta814932.sbs
-0.0.0.0 alebilet.pl-oferta817285125.sbs
 0.0.0.0 alebilet.pl-oferta84037449.cfd
 0.0.0.0 alebilet.pl-oferta84037449.lol
 0.0.0.0 alebilet.pl-oferta8407411.icu
@@ -6868,7 +6866,6 @@
 0.0.0.0 alebilet.plsd9klffgqlussbg01xk.icu
 0.0.0.0 alebilet.plsd9klffgterqp01xk.icu
 0.0.0.0 alebilet.plsd9klffgterzp01xk.icu
-0.0.0.0 alebilet.plsd9klflloawsqp01xk.icu
 0.0.0.0 alebilet.plsd9klfltolusqp01xk.icu
 0.0.0.0 alebilet.plsd9klfpolitic21.icu
 0.0.0.0 alebilet.plsd9klfukolusqp01xk.icu
@@ -6890,6 +6887,7 @@
 0.0.0.0 alekonta.pl
 0.0.0.0 alenai.cyou
 0.0.0.0 alenty.com
+0.0.0.0 aleoranumely.com
 0.0.0.0 aleperfumeria.pl
 0.0.0.0 alert-auspost.com
 0.0.0.0 alert-bendigobank.com
@@ -7159,6 +7157,7 @@
 0.0.0.0 allegro-lokalnie.pl-95451.sbs
 0.0.0.0 allegro-lokalnie.pl-98047.icu
 0.0.0.0 allegro-lokalnie.pl-98253.icu
+0.0.0.0 allegro-lokalnie.pl-oferta9014-apple-macbook-pro.cfd
 0.0.0.0 allegro-lokalnie.pl-prywatna8952971.icu
 0.0.0.0 allegro-lokalnie.pl34075013914.cfd
 0.0.0.0 allegro-lokalnie.pl5429rezerwacja2410.sbs
@@ -7199,7 +7198,6 @@
 0.0.0.0 allegro.037991.click
 0.0.0.0 allegro.03851.click
 0.0.0.0 allegro.038511.click
-0.0.0.0 allegro.0392-3949praynie.sbs
 0.0.0.0 allegro.040490.click
 0.0.0.0 allegro.04805.click
 0.0.0.0 allegro.053993papzjk.sbs
@@ -7376,7 +7374,6 @@
 0.0.0.0 allegro.9437855122593.click
 0.0.0.0 allegro.9523827ssa1.sbs
 0.0.0.0 allegro.95482.vu
-0.0.0.0 allegro.954ghjkprytanke.sbs
 0.0.0.0 allegro.973627.click
 0.0.0.0 allegro.983247.vu
 0.0.0.0 allegro.98765ty6.cyou
@@ -7447,7 +7444,6 @@
 0.0.0.0 allegro.oferta-4295512.icu
 0.0.0.0 allegro.oferta-4968301.icu
 0.0.0.0 allegro.oferta-7175768.icu
-0.0.0.0 allegro.oferta-82615561.click
 0.0.0.0 allegro.oferta-857891.icu
 0.0.0.0 allegro.oferta-87491741.icu
 0.0.0.0 allegro.oferta-882199.sbs
@@ -7600,7 +7596,6 @@
 0.0.0.0 allegro.pl-oferta6728127.icu
 0.0.0.0 allegro.pl-oferta6734153.icu
 0.0.0.0 allegro.pl-oferta6734157.icu
-0.0.0.0 allegro.pl-oferta674286.sbs
 0.0.0.0 allegro.pl-oferta674892.sbs
 0.0.0.0 allegro.pl-oferta674893.sbs
 0.0.0.0 allegro.pl-oferta6783127.icu
@@ -7622,7 +7617,6 @@
 0.0.0.0 allegro.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 allegro.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 allegro.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 allegro.pl-oferta814932.sbs
 0.0.0.0 allegro.pl-oferta84037449.cfd
 0.0.0.0 allegro.pl-oferta84037449.lol
 0.0.0.0 allegro.pl-oferta8407411.icu
@@ -7815,7 +7809,6 @@
 0.0.0.0 allegro.plsd9klffgqlussbg01xk.icu
 0.0.0.0 allegro.plsd9klffgterqp01xk.icu
 0.0.0.0 allegro.plsd9klffgterzp01xk.icu
-0.0.0.0 allegro.plsd9klflloawsqp01xk.icu
 0.0.0.0 allegro.plsd9klfltolusqp01xk.icu
 0.0.0.0 allegro.plsd9klfpolitic21.icu
 0.0.0.0 allegro.plsd9klfukolusqp01xk.icu
@@ -7841,7 +7834,6 @@
 0.0.0.0 allegro.pror1918s7-938g.sbs
 0.0.0.0 allegro.prot019282f-dd.cyou
 0.0.0.0 allegro.prow92810-509g9.sbs
-0.0.0.0 allegro.pry-3082s.cfd
 0.0.0.0 allegro.rifi18f11.cfd
 0.0.0.0 allegro.s510591.cfd
 0.0.0.0 allegro.sarze3072640-44.sbs
@@ -8075,8 +8067,6 @@
 0.0.0.0 allegrolokalne.pl-smart95781242.cfd
 0.0.0.0 allegrolokalne.pl-smart971247.cfd
 0.0.0.0 allegrolokalne.pl-smrat87412762.cfd
-0.0.0.0 allegrolokalne.pl34465064170.cfd
-0.0.0.0 allegrolokalne.pl73467064173.cfd
 0.0.0.0 allegrolokalne.plad2gsgaas17xk.icu
 0.0.0.0 allegrolokalne.plad2gskajs11xk.icu
 0.0.0.0 allegrolokalne.plax2gsgaas17xk.icu
@@ -8131,6 +8121,7 @@
 0.0.0.0 allegrolokalnie.09505.click
 0.0.0.0 allegrolokalnie.09530.click
 0.0.0.0 allegrolokalnie.09958.click
+0.0.0.0 allegrolokalnie.0995811.click
 0.0.0.0 allegrolokalnie.0e928d9197fj28422.sbs
 0.0.0.0 allegrolokalnie.0gloszenie5819501.click
 0.0.0.0 allegrolokalnie.0gloszenie612967.cfd
@@ -8281,6 +8272,7 @@
 0.0.0.0 allegrolokalnie.99077.click
 0.0.0.0 allegrolokalnie.992389238523.sbs
 0.0.0.0 allegrolokalnie.99571.click
+0.0.0.0 allegrolokalnie.99600.sale
 0.0.0.0 allegrolokalnie.9974823847234.cfd
 0.0.0.0 allegrolokalnie.99812.pl
 0.0.0.0 allegrolokalnie.9deu28y2y3h2912e28232.cfd
@@ -8368,7 +8360,6 @@
 0.0.0.0 allegrolokalnie.oferta-1834382-proponowane-dla-ciebie.icu
 0.0.0.0 allegrolokalnie.oferta-1854413-proponowane-dla-ciebie.icu
 0.0.0.0 allegrolokalnie.oferta-233345221-kategoria-dla-ciebie.sbs
-0.0.0.0 allegrolokalnie.oferta-23942-dla-ciebie-proponowana.icu
 0.0.0.0 allegrolokalnie.oferta-24509235-kategoria-dla-ciebie.icu
 0.0.0.0 allegrolokalnie.oferta-256763331-kategoria-dla-ciebie.sbs
 0.0.0.0 allegrolokalnie.oferta-34467222-kategoria-dla-ciebie.sbs
@@ -8394,7 +8385,6 @@
 0.0.0.0 allegrolokalnie.oferta-65782909-kategoria-dla-ciebie.sbs
 0.0.0.0 allegrolokalnie.oferta-7175768.icu
 0.0.0.0 allegrolokalnie.oferta-77782909-kategoria-dla-ciebie.sbs
-0.0.0.0 allegrolokalnie.oferta-82615561.click
 0.0.0.0 allegrolokalnie.oferta-83942-dla-ciebie-proponowana.icu
 0.0.0.0 allegrolokalnie.oferta-857891.icu
 0.0.0.0 allegrolokalnie.oferta-87491741.icu
@@ -8451,7 +8441,6 @@
 0.0.0.0 allegrolokalnie.oferta867341.sbs
 0.0.0.0 allegrolokalnie.oferta869342.sbs
 0.0.0.0 allegrolokalnie.oferty-1246741-proponowane-dla-ciebie.icu
-0.0.0.0 allegrolokalnie.oferty-12474-dla-ciebie-proponowana.icu
 0.0.0.0 allegrolokalnie.oferty-kategoria-popularne-12446811.sbs
 0.0.0.0 allegrolokalnie.oferty-kategoria-popularne-12503474.sbs
 0.0.0.0 allegrolokalnie.oferty-kategoria-popularne-129847.sbs
@@ -8469,17 +8458,12 @@
 0.0.0.0 allegrolokalnie.oferty-kategoria-popularne-16404681.sbs
 0.0.0.0 allegrolokalnie.oferty-kategoria-popularne-1644681.sbs
 0.0.0.0 allegrolokalnie.oferty-kategoria-popularne-16474712.sbs
-0.0.0.0 allegrolokalnie.oferty-kategoria-proponowanie-13242-dla-ciebie.icu
-0.0.0.0 allegrolokalnie.oferty-kategoria-proponowanie-15242-dla-ciebie.icu
-0.0.0.0 allegrolokalnie.oferty-kategoria-proponowanie-16242-dla-ciebie.icu
-0.0.0.0 allegrolokalnie.oferty-kategoria-proponowanie-17242-dla-ciebie.icu
-0.0.0.0 allegrolokalnie.oferty-kategoria-proponowanie-23242-dla-ciebie.icu
-0.0.0.0 allegrolokalnie.oferty-kategoria-proponowanie-27232-dla-ciebie.icu
 0.0.0.0 allegrolokalnie.oferty-narzedzia-127362.cfd
 0.0.0.0 allegrolokalnie.ogl0sz3nie6912379.top
 0.0.0.0 allegrolokalnie.ogl0szenie68591.click
 0.0.0.0 allegrolokalnie.ogl0szenie795183.top
 0.0.0.0 allegrolokalnie.ogloszenie-47235.cfd
+0.0.0.0 allegrolokalnie.okli9870lk9jk99.biz
 0.0.0.0 allegrolokalnie.p152x7183x77312.sbs
 0.0.0.0 allegrolokalnie.p278x82994413.sbs
 0.0.0.0 allegrolokalnie.p4jgsdcj3rj4.sbs
@@ -8606,6 +8590,7 @@
 0.0.0.0 allegrolokalnie.pl-2415784.icu
 0.0.0.0 allegrolokalnie.pl-241886.cfd
 0.0.0.0 allegrolokalnie.pl-241966.cfd
+0.0.0.0 allegrolokalnie.pl-247468.cfd
 0.0.0.0 allegrolokalnie.pl-248427.cfd
 0.0.0.0 allegrolokalnie.pl-25413657.icu
 0.0.0.0 allegrolokalnie.pl-25415674.icu
@@ -8960,7 +8945,6 @@
 0.0.0.0 allegrolokalnie.pl-oferta196912.icu
 0.0.0.0 allegrolokalnie.pl-oferta2010944.cfd
 0.0.0.0 allegrolokalnie.pl-oferta21371.icu
-0.0.0.0 allegrolokalnie.pl-oferta23132.sbs
 0.0.0.0 allegrolokalnie.pl-oferta231421.sbs
 0.0.0.0 allegrolokalnie.pl-oferta232124.sbs
 0.0.0.0 allegrolokalnie.pl-oferta23768479.sbs
@@ -9020,7 +9004,6 @@
 0.0.0.0 allegrolokalnie.pl-oferta6728127.icu
 0.0.0.0 allegrolokalnie.pl-oferta6734153.icu
 0.0.0.0 allegrolokalnie.pl-oferta6734157.icu
-0.0.0.0 allegrolokalnie.pl-oferta674286.sbs
 0.0.0.0 allegrolokalnie.pl-oferta674892.sbs
 0.0.0.0 allegrolokalnie.pl-oferta674893.sbs
 0.0.0.0 allegrolokalnie.pl-oferta67793456.icu
@@ -9048,8 +9031,6 @@
 0.0.0.0 allegrolokalnie.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 allegrolokalnie.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 allegrolokalnie.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 allegrolokalnie.pl-oferta814932.sbs
-0.0.0.0 allegrolokalnie.pl-oferta817285125.sbs
 0.0.0.0 allegrolokalnie.pl-oferta82594.cfd
 0.0.0.0 allegrolokalnie.pl-oferta84037449.cfd
 0.0.0.0 allegrolokalnie.pl-oferta84037449.lol
@@ -9287,7 +9268,6 @@
 0.0.0.0 allegrolokalnie.plsd9klffgqlussbg01xk.icu
 0.0.0.0 allegrolokalnie.plsd9klffgterqp01xk.icu
 0.0.0.0 allegrolokalnie.plsd9klffgterzp01xk.icu
-0.0.0.0 allegrolokalnie.plsd9klflloawsqp01xk.icu
 0.0.0.0 allegrolokalnie.plsd9klflrdmwsxd01xk.icu
 0.0.0.0 allegrolokalnie.plsd9klfltolusqp01xk.icu
 0.0.0.0 allegrolokalnie.plsd9klfpolitic21.icu
@@ -9481,6 +9461,7 @@
 0.0.0.0 am15.net
 0.0.0.0 am5.vip.prod.criteo.com
 0.0.0.0 am5.vip.prod.criteo.net
+0.0.0.0 amalivo-app.com
 0.0.0.0 amanaprimex.com
 0.0.0.0 amandagreenstudio.com
 0.0.0.0 amaprop.net
@@ -10056,6 +10037,7 @@
 0.0.0.0 andennumero5.com
 0.0.0.0 andersfriberg.com
 0.0.0.0 andersondiamonds.com
+0.0.0.0 andersonrodriguez.com
 0.0.0.0 andesbiltox.com
 0.0.0.0 andomedia.com
 0.0.0.0 andpop.us.intellitxt.com
@@ -11250,6 +11232,7 @@
 0.0.0.0 argeklima.net
 0.0.0.0 argent-online2025.com
 0.0.0.0 argenta.fr
+0.0.0.0 argentiscapora.com
 0.0.0.0 argentisgridgptai.net
 0.0.0.0 argentoflowdex-app.com
 0.0.0.0 argentremo.pro
@@ -11322,6 +11305,7 @@
 0.0.0.0 arthurpantelides.com
 0.0.0.0 artifactsworldh.info
 0.0.0.0 artificialintelligencehubh.info
+0.0.0.0 artildisas.rest
 0.0.0.0 artirgvi.com
 0.0.0.0 artislandl.info
 0.0.0.0 artissanat.fr
@@ -11596,6 +11580,7 @@
 0.0.0.0 associatednorthcliffedigital.122.2o7.net
 0.0.0.0 assodigitale.fr
 0.0.0.0 assostudiosrl.it
+0.0.0.0 assunriacc.rest
 0.0.0.0 assuvasavunmasanayi.com
 0.0.0.0 assys01.fc2.com
 0.0.0.0 ast-grouope.fr
@@ -11826,6 +11811,7 @@
 0.0.0.0 aumotradeinvaluecom.112.2o7.net
 0.0.0.0 aunhi.org
 0.0.0.0 aunica.112.2o7.net
+0.0.0.0 auntrix-cipher-ai.com
 0.0.0.0 auradelunadao.com
 0.0.0.0 auramarginers.com
 0.0.0.0 auramuhendislik.com
@@ -12230,6 +12216,7 @@
 0.0.0.0 babiridor.site
 0.0.0.0 babouche-maroc.fr
 0.0.0.0 babsy.foreverhorny.com
+0.0.0.0 baby.vip-pl.top
 0.0.0.0 babyassy.com
 0.0.0.0 babyboofashionpolska.com
 0.0.0.0 babycenter.tt.omtrdc.net
@@ -14310,6 +14297,7 @@
 0.0.0.0 btcom.112.2o7.net
 0.0.0.0 btcomdev.112.2o7.net
 0.0.0.0 btcrevolution.cloud
+0.0.0.0 btcruz-app.com
 0.0.0.0 btcsoulai.com
 0.0.0.0 btctraderai.net
 0.0.0.0 btcturkyzai.com
@@ -14378,6 +14366,7 @@
 0.0.0.0 buildingideash.info
 0.0.0.0 buildmuse.buzz
 0.0.0.0 buildtravell.info
+0.0.0.0 builduify.live
 0.0.0.0 buildyourdata.com
 0.0.0.0 builtbytodd.com
 0.0.0.0 bujuni.online
@@ -14417,6 +14406,7 @@
 0.0.0.0 bur.vueleslie.com
 0.0.0.0 burandsale.com
 0.0.0.0 burbujahotelmadrid.com
+0.0.0.0 burbujahotels.com
 0.0.0.0 burdanalcam.net
 0.0.0.0 bureau.co.il
 0.0.0.0 bureaunacustomertools.112.2o7.net
@@ -14986,6 +14976,7 @@
 0.0.0.0 caly-film.refy.pl
 0.0.0.0 caly-hd-pl.blogspot.com
 0.0.0.0 calypsocapsule.com
+0.0.0.0 calyvosbotyx.com
 0.0.0.0 cam.demdex.net
 0.0.0.0 cam2cam.xlovecam.com
 0.0.0.0 camaieur.fr
@@ -16451,6 +16442,7 @@
 0.0.0.0 ciekawe24.pl.ua
 0.0.0.0 ciel7.free.fr
 0.0.0.0 cielito-profitron.net
+0.0.0.0 ciemnastronafaktow.com
 0.0.0.0 cienum.fr
 0.0.0.0 ciezkieczasy.is-best.net
 0.0.0.0 cif.su
@@ -17452,6 +17444,7 @@
 0.0.0.0 comeisolarecasa.it
 0.0.0.0 comercialvahe.sbs
 0.0.0.0 comercio-invexon-app.com
+0.0.0.0 comerciofundoriax.com
 0.0.0.0 comericac.com
 0.0.0.0 comet.yahoo.com
 0.0.0.0 comfortablecheese.com
@@ -18807,6 +18800,7 @@
 0.0.0.0 cyppolice.com
 0.0.0.0 cypruscityguide.com
 0.0.0.0 cypruscusupport.help
+0.0.0.0 cyranifyrviax.net
 0.0.0.0 cyrynee2.com
 0.0.0.0 cyseal.cyveillance.com
 0.0.0.0 cystoimbal.homes
@@ -19439,6 +19433,7 @@
 0.0.0.0 deepwickharbor.world
 0.0.0.0 def.5.p2l.info
 0.0.0.0 def.dev-nano.com
+0.0.0.0 defasensha.rest
 0.0.0.0 defatcompr.pro
 0.0.0.0 default.exp-tas.com
 0.0.0.0 defaultdsp.admicro.vn
@@ -19982,6 +19977,7 @@
 0.0.0.0 discobarac.pro
 0.0.0.0 discocolti.rest
 0.0.0.0 discodivia.world
+0.0.0.0 discoledge.rest
 0.0.0.0 discomandi.world
 0.0.0.0 discomusse.rest
 0.0.0.0 discontinuoustotalizer.com
@@ -20443,7 +20439,9 @@
 0.0.0.0 dpagcoagcoglobal.112.2o7.net
 0.0.0.0 dpbolvw.net
 0.0.0.0 dpctrust.com
+0.0.0.0 dpd-pl.sendofxtjn.shop
 0.0.0.0 dpd-pl.simelano.cfd
+0.0.0.0 dpd.hulekao.vu
 0.0.0.0 dpd.kacevis.icu
 0.0.0.0 dpdpaczka.plaka189.cyou
 0.0.0.0 dpdpaczka.prizkal33.cfd
@@ -20692,6 +20690,7 @@
 0.0.0.0 duzcekestanesi.com
 0.0.0.0 dv25cfe4fmu5k.cloudfront.net
 0.0.0.0 dv4koe.icu
+0.0.0.0 dvall.weisscraft.com
 0.0.0.0 dvamd.com
 0.0.0.0 dvdhentai.net
 0.0.0.0 dvdmanager-203.sv2.biz
@@ -20952,6 +20951,7 @@
 0.0.0.0 earthweaverg.info
 0.0.0.0 eas.almamedia.fi
 0.0.0.0 eas4.emediate.eu
+0.0.0.0 easdpro.shop
 0.0.0.0 easiabet.com
 0.0.0.0 east.05tz2e9.com
 0.0.0.0 east.ads.simpli.fi
@@ -21174,6 +21174,7 @@
 0.0.0.0 eedclicks.ero-advertising.com
 0.0.0.0 eegad.freeservers.com
 0.0.0.0 eelhoe.us
+0.0.0.0 eelsetal.rest
 0.0.0.0 eelsoup.net
 0.0.0.0 eepn.us.intellitxt.com
 0.0.0.0 eesql.com
@@ -21365,6 +21366,7 @@
 0.0.0.0 eisenstein.dk
 0.0.0.0 eiv.baidu.com
 0.0.0.0 eixo-portfinex-pro.com
+0.0.0.0 eixoinviolex.com
 0.0.0.0 eixoportfinex.com
 0.0.0.0 ej.progresas.lt
 0.0.0.0 ejefinsoria.com
@@ -21839,6 +21841,7 @@
 0.0.0.0 eromansik.pl
 0.0.0.0 eronplus.pl
 0.0.0.0 eropteka.com.pl
+0.0.0.0 erosiresub.rest
 0.0.0.0 erosoku.net
 0.0.0.0 erosponsorki.pl
 0.0.0.0 erotilink.com
@@ -22035,6 +22038,7 @@
 0.0.0.0 ets-eu-west-1.track.smaato.net
 0.0.0.0 ets-us-east-1.track.smaato.net
 0.0.0.0 etsy.bttn.io
+0.0.0.0 etuctool.digital
 0.0.0.0 etype.adbureau.net
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu-api.swrve.com
@@ -22213,6 +22217,7 @@
 0.0.0.0 events2-us-east-1.ipredictive.com
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
+0.0.0.0 eventspacc.rest
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 eventupdatesexclusive.com
 0.0.0.0 eventworldh.info
@@ -22592,6 +22597,7 @@
 0.0.0.0 facewatch.borec.cz
 0.0.0.0 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
 0.0.0.0 fachadasalaire.com
+0.0.0.0 faciephyto.rest
 0.0.0.0 facilitategovernor.com
 0.0.0.0 faciogratt.pro
 0.0.0.0 factflowexpress.pro
@@ -23084,6 +23090,7 @@
 0.0.0.0 fileman.pl
 0.0.0.0 fileoasis.net
 0.0.0.0 filerit.com
+0.0.0.0 fileroop.de.cool
 0.0.0.0 files-downloads.com
 0.0.0.0 files.5modapk.com
 0.0.0.0 files.adspdbl.com
@@ -23111,6 +23118,7 @@
 0.0.0.0 filivod.pl
 0.0.0.0 filjuridica.com
 0.0.0.0 fillmorecentral.instructure.com
+0.0.0.0 fillosheep.rest
 0.0.0.0 fillthemap.com
 0.0.0.0 film-base.pl
 0.0.0.0 film-flix.pl
@@ -23367,6 +23375,7 @@
 0.0.0.0 fishphotol.info
 0.0.0.0 fishworldh.info
 0.0.0.0 fishworldl.info
+0.0.0.0 fisi.clearsbranch.com
 0.0.0.0 fistubianc.pro
 0.0.0.0 fistucanva.site
 0.0.0.0 fit-poradnik.pl
@@ -23607,12 +23616,14 @@
 0.0.0.0 folloyu.com
 0.0.0.0 fomchoby.digital
 0.0.0.0 fomommilk.com
+0.0.0.0 fonatrazze.rest
 0.0.0.0 fondabonno.site
 0.0.0.0 fondmatexapp.net
 0.0.0.0 fondprof.oewabox.at
 0.0.0.0 fondsvirex.com
 0.0.0.0 fonksiyoneltipeczaciligi.com
 0.0.0.0 fonoselega.com
+0.0.0.0 fontanerosrca.com
 0.0.0.0 fontostudni.club
 0.0.0.0 fonts.ad.admitad.com
 0.0.0.0 fontserif.com
@@ -24046,6 +24057,7 @@
 0.0.0.0 fuckmebook.com
 0.0.0.0 fuckworld.com
 0.0.0.0 fudgegenie.com
+0.0.0.0 fuerahumedades.com
 0.0.0.0 fugconsectenumquam.xyz
 0.0.0.0 fujazumeqigo.com
 0.0.0.0 fujielectricholdings.112.2o7.net
@@ -26157,6 +26169,7 @@
 0.0.0.0 haus-pesjak.at
 0.0.0.0 hauteaccents.com
 0.0.0.0 hautetee.com
+0.0.0.0 hautiercalyron.com
 0.0.0.0 havasedge.com
 0.0.0.0 havencrestg.info
 0.0.0.0 havenfieldg.info
@@ -28393,6 +28406,7 @@
 0.0.0.0 inguaulimo.homes
 0.0.0.0 inheruncom.world
 0.0.0.0 inhousedsp.com
+0.0.0.0 inici-dirrecion.com
 0.0.0.0 inimage.carambo.la
 0.0.0.0 init.sh
 0.0.0.0 init.sms.mob.com
@@ -28934,6 +28948,7 @@
 0.0.0.0 ironforgepartners.mom
 0.0.0.0 irongate-luxten-software.com
 0.0.0.0 irongate-luxten.net
+0.0.0.0 irongateluxten-app.com
 0.0.0.0 irongateluxten.net
 0.0.0.0 ironharboranalytics.life
 0.0.0.0 ironharboranalytics.live
@@ -28994,6 +29009,7 @@
 0.0.0.0 is.sh
 0.0.0.0 is2.websearch.com
 0.0.0.0 isabelladiva.com
+0.0.0.0 isamego.pl
 0.0.0.0 isaveliler.com
 0.0.0.0 ischekazat.pro
 0.0.0.0 ischisperp.site
@@ -29428,6 +29444,7 @@
 0.0.0.0 joetoons.com
 0.0.0.0 jogalodz.pl
 0.0.0.0 jogger.zdbb.net
+0.0.0.0 jogucue.com
 0.0.0.0 johnlewis.112.2o7.net
 0.0.0.0 johnparkforcitycouncil.com
 0.0.0.0 johnston.grapeshot.co.uk
@@ -29995,6 +30012,7 @@
 0.0.0.0 ketodietp.com
 0.0.0.0 ketodrov.com
 0.0.0.0 ketquaxosotoancau.org
+0.0.0.0 kevetuu.com
 0.0.0.0 kevindhobbs.com
 0.0.0.0 kevinsaquariums.com
 0.0.0.0 kevlaardiet.fr
@@ -30294,6 +30312,7 @@
 0.0.0.0 krasnaya.co.uk
 0.0.0.0 krater.iprom.net
 0.0.0.0 kratomfiesta.com
+0.0.0.0 kratos-ai.net
 0.0.0.0 krdn.pl
 0.0.0.0 kreaffiliation.com
 0.0.0.0 kredirehberi.net
@@ -30913,6 +30932,7 @@
 0.0.0.0 lentrixflowapp.com
 0.0.0.0 leomonde.fr
 0.0.0.0 leonbergery.com.pl
+0.0.0.0 leonderuta.com
 0.0.0.0 leongcoklcc.com
 0.0.0.0 lepagebag.com
 0.0.0.0 leparirien.fr
@@ -31025,6 +31045,7 @@
 0.0.0.0 li.pmc.com
 0.0.0.0 li.realtor.com
 0.0.0.0 li.ziffimages.com
+0.0.0.0 liabangart.com
 0.0.0.0 liadm.com
 0.0.0.0 lib.vmweb.net
 0.0.0.0 lib4.libstat.com
@@ -31122,6 +31143,7 @@
 0.0.0.0 lilyclan-warriors.blogspot.com
 0.0.0.0 lilyrivera.shop
 0.0.0.0 lilytailsblog.blogspot.com
+0.0.0.0 limatcorro.rest
 0.0.0.0 limbldisca.pro
 0.0.0.0 limeaappun.pro
 0.0.0.0 limebike9.net
@@ -32495,6 +32517,7 @@
 0.0.0.0 managwebappacpresecureadfhfy.ptanomali7.biz.id
 0.0.0.0 managwebappsecureacconshwkseryhgkuj346tdfg.pcanomali6.biz.id
 0.0.0.0 managwebappsecureacconstasoihwesiolfsdeghasdw.professorx3.biz.id
+0.0.0.0 managwebappswejkfhkusdfff.strangled.net
 0.0.0.0 mancamyxoc.world
 0.0.0.0 mandarin.net.au
 0.0.0.0 mandarv.com
@@ -33552,6 +33575,7 @@
 0.0.0.0 mgtbopanels.112.2o7.net
 0.0.0.0 mgtimesdispatch.112.2o7.net
 0.0.0.0 mgtricities.112.2o7.net
+0.0.0.0 mguid.click
 0.0.0.0 mguide-piscine.fr
 0.0.0.0 mgwcbd.112.2o7.net
 0.0.0.0 mgwjar.112.2o7.net
@@ -34195,6 +34219,7 @@
 0.0.0.0 movies-box.net
 0.0.0.0 movies-cine.com
 0.0.0.0 movies-cinema.com
+0.0.0.0 movies-poland.info
 0.0.0.0 movies.701pages.com
 0.0.0.0 movies.us.intellitxt.com
 0.0.0.0 moviesae.cc
@@ -35287,6 +35312,7 @@
 0.0.0.0 nexmist-trade-ai.net
 0.0.0.0 nexmistai.com
 0.0.0.0 nexmistaxiomai.net
+0.0.0.0 nexo-365-valerza.com
 0.0.0.0 nexonix-app.net
 0.0.0.0 nexonixprofitapp.net
 0.0.0.0 nexoqix.net
@@ -35429,6 +35455,7 @@
 0.0.0.0 nixpy.com
 0.0.0.0 nj.5.p2l.info
 0.0.0.0 nj.thor.rtk.io
+0.0.0.0 njastre.com
 0.0.0.0 njinmobirtb.lfstmedia.com
 0.0.0.0 njmvc.112.2o7.net
 0.0.0.0 njperuviansinc.com
@@ -35579,6 +35606,7 @@
 0.0.0.0 nonsaklig.pro
 0.0.0.0 nonstopvideos.pl
 0.0.0.0 nonsudyne.pro
+0.0.0.0 nonsusensi.rest
 0.0.0.0 nontegramo.rest
 0.0.0.0 nontrhippa.pro
 0.0.0.0 nonvvhalip.world
@@ -36176,6 +36204,7 @@
 0.0.0.0 oblirammas.cyou
 0.0.0.0 oblirexget.net
 0.0.0.0 oblirexo.net
+0.0.0.0 oblonlingo.pro
 0.0.0.0 obo.moatads.com
 0.0.0.0 obs.nnm2.ru
 0.0.0.0 obscenesidewalk.com
@@ -36650,6 +36679,7 @@
 0.0.0.0 olx.98765ty6.cyou
 0.0.0.0 olx.98d010du2j2381u1332.cfd
 0.0.0.0 olx.99077.click
+0.0.0.0 olx.99600.sale
 0.0.0.0 olx.9deu28y2y3h2912e28232.cfd
 0.0.0.0 olx.9t88t83ht37.cfd
 0.0.0.0 olx.a556888-113.cyou
@@ -36886,7 +36916,6 @@
 0.0.0.0 olx.pl-oferta6728127.icu
 0.0.0.0 olx.pl-oferta6734153.icu
 0.0.0.0 olx.pl-oferta6734157.icu
-0.0.0.0 olx.pl-oferta674286.sbs
 0.0.0.0 olx.pl-oferta674892.sbs
 0.0.0.0 olx.pl-oferta674893.sbs
 0.0.0.0 olx.pl-oferta6783127.icu
@@ -36908,7 +36937,6 @@
 0.0.0.0 olx.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 olx.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 olx.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 olx.pl-oferta814932.sbs
 0.0.0.0 olx.pl-oferta817285125.sbs
 0.0.0.0 olx.pl-oferta84037449.cfd
 0.0.0.0 olx.pl-oferta84037449.lol
@@ -37107,8 +37135,6 @@
 0.0.0.0 olx.plsd9klagzb01xk.icu
 0.0.0.0 olx.plsd9klazb02xk.icu
 0.0.0.0 olx.plsd9klazs02xk.icu
-0.0.0.0 olx.plsd9klfbaudwsxd01xk.icu
-0.0.0.0 olx.plsd9klfbirmwsxd01xk.icu
 0.0.0.0 olx.plsd9klffggrkolz01xk.icu
 0.0.0.0 olx.plsd9klffggterqp01xk.icu
 0.0.0.0 olx.plsd9klffgkaghbg01xk.icu
@@ -37623,6 +37649,7 @@
 0.0.0.0 ordexiaplus.net
 0.0.0.0 ordexiapro.net
 0.0.0.0 ordexiatitan.net
+0.0.0.0 ordexiatrader.net
 0.0.0.0 ordie.adbureau.net
 0.0.0.0 ordremek.fr
 0.0.0.0 ordupalyaco.com
@@ -37791,6 +37818,7 @@
 0.0.0.0 out1.cityads.com
 0.0.0.0 out2.cityads.com
 0.0.0.0 out3.cityads.com
+0.0.0.0 outbehimse.rest
 0.0.0.0 outbrain.com
 0.0.0.0 outbrain.com.edgekey.net
 0.0.0.0 outbrainimg.com.edgekey.net
@@ -37830,6 +37858,7 @@
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overlay.top
 0.0.0.0 overlinocu.pro
+0.0.0.0 overmraddo.rest
 0.0.0.0 overnear.info
 0.0.0.0 overorlenpost.my-free.website
 0.0.0.0 overpmatal.world
@@ -37893,6 +37922,7 @@
 0.0.0.0 oxx7opl.ym9dtr.cyou
 0.0.0.0 oxybe.com
 0.0.0.0 oygintercity.com
+0.0.0.0 oypdwa.zaplacic.homes
 0.0.0.0 oyrfo.comfortykive.xyz
 0.0.0.0 oz.valueclick.com
 0.0.0.0 oz.valueclick.ne.jp
@@ -38039,6 +38069,7 @@
 0.0.0.0 paczka.taltion.icu
 0.0.0.0 paczka.tasanga.cfd
 0.0.0.0 paczka.tatielan.lol
+0.0.0.0 paczka.vesetda.sbs
 0.0.0.0 paczkiwciemno.pl
 0.0.0.0 paczuli.pl
 0.0.0.0 pad-v3.presage.io
@@ -38063,6 +38094,7 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 pagebwh-enter11.com
 0.0.0.0 pagefair.com
 0.0.0.0 pageisloading.net
 0.0.0.0 pagepeel.ero-advertising.com
@@ -38154,6 +38186,7 @@
 0.0.0.0 panta.sakura.ne.jp
 0.0.0.0 pantaya.fr
 0.0.0.0 pantonears.rest
+0.0.0.0 pantraccar.rest
 0.0.0.0 pants-shop.com
 0.0.0.0 pantuimbro.site
 0.0.0.0 paoliumc.org
@@ -38178,6 +38211,7 @@
 0.0.0.0 parachutehome.sjv.io
 0.0.0.0 paradanhaber.net
 0.0.0.0 parade.122.2o7.net
+0.0.0.0 paradiseteneriferentals.com
 0.0.0.0 parado.pl
 0.0.0.0 parafiaukta.pl
 0.0.0.0 paragongrivex.com
@@ -38567,6 +38601,7 @@
 0.0.0.0 perf.teads.tv.edgekey.net
 0.0.0.0 perfacoher.pro
 0.0.0.0 perfectaudience.com
+0.0.0.0 perfectcircle.click
 0.0.0.0 perfectfavoritescenter.shop
 0.0.0.0 perfectfeednews.com
 0.0.0.0 perfecttools.pl
@@ -40216,6 +40251,7 @@
 0.0.0.0 poloralphlaurenlotusstg.112.2o7.net
 0.0.0.0 polowapazdziernika.wixsite.com
 0.0.0.0 polrandki.com
+0.0.0.0 polryxobotix.com
 0.0.0.0 polsatboxingnight-transmisjahd.ujm.pl
 0.0.0.0 polsatonlinetelewizja.blogspot.com
 0.0.0.0 polsatsporthd.blogspot.com
@@ -40359,6 +40395,8 @@
 0.0.0.0 poshbay.com
 0.0.0.0 poshclothings.com
 0.0.0.0 posicionamientonatural.es
+0.0.0.0 posittreel.rest
+0.0.0.0 posizreaso.rest
 0.0.0.0 posomafyukoca.cloud
 0.0.0.0 possibleboats.com
 0.0.0.0 possiblepencil.com
@@ -40413,6 +40451,7 @@
 0.0.0.0 powerdogl.info
 0.0.0.0 poweredbyliquidfire.mobi
 0.0.0.0 poweredlock.com
+0.0.0.0 powerevex.net
 0.0.0.0 powernavix70.com
 0.0.0.0 powerofprofit2026.com
 0.0.0.0 poweronemedia.122.2o7.net
@@ -40838,6 +40877,7 @@
 0.0.0.0 profithorizon.net
 0.0.0.0 profitianexus.com
 0.0.0.0 profitianexus.net
+0.0.0.0 profitifybah-app.com
 0.0.0.0 profitiumvista-platform.com
 0.0.0.0 profitiumvista.com
 0.0.0.0 profitixsolid.com
@@ -41663,6 +41703,7 @@
 0.0.0.0 questpioneer.digital
 0.0.0.0 questsoftware.112.2o7.net
 0.0.0.0 questtrack.info
+0.0.0.0 questvision.digital
 0.0.0.0 queue.adspruce.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 quickadsmedia.gotrackier.com
@@ -42663,6 +42704,7 @@
 0.0.0.0 riacctumul.pro
 0.0.0.0 riadomispe.world
 0.0.0.0 riaggrosic.pro
+0.0.0.0 riallgemle.rest
 0.0.0.0 riappintar.world
 0.0.0.0 riappmarsa.pro
 0.0.0.0 riappnonfu.site
@@ -42697,6 +42739,7 @@
 0.0.0.0 rickrolling.com
 0.0.0.0 ricondrags.pro
 0.0.0.0 riconlitig.com
+0.0.0.0 riconpaper.rest
 0.0.0.0 riconriabi.pro
 0.0.0.0 riconstill.pro
 0.0.0.0 ricordedur.pro
@@ -42783,6 +42826,7 @@
 0.0.0.0 ringtonematcher.com
 0.0.0.0 ringtonepartner.com
 0.0.0.0 rinsareden.site
+0.0.0.0 rintasterr.rest
 0.0.0.0 rintavascu.casa
 0.0.0.0 rinteechog.casa
 0.0.0.0 rintefilig.homes
@@ -43660,6 +43704,10 @@
 0.0.0.0 s6.textlink.vn
 0.0.0.0 s62.research.de.com
 0.0.0.0 s66wift.info
+0.0.0.0 s6eedd.info
+0.0.0.0 s6ource.info
+0.0.0.0 s6park.info
+0.0.0.0 s6tackonline.info
 0.0.0.0 s7.adaces.ero-advertising.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 s79.mxcdn.net
@@ -44703,6 +44751,7 @@
 0.0.0.0 selmorivantux.world
 0.0.0.0 selvacorebit.com
 0.0.0.0 selvion-xalron.shop
+0.0.0.0 selvionaxelis.com
 0.0.0.0 selwixapp.com
 0.0.0.0 sem.searchteria.co.jp
 0.0.0.0 semasa.icu
@@ -45037,6 +45086,7 @@
 0.0.0.0 sfa.com.ar
 0.0.0.0 sfads.osdn.com
 0.0.0.0 sfalslingu.world
+0.0.0.0 sfarbitrevo.com
 0.0.0.0 sfd-pl.help
 0.0.0.0 sfd.bofrost.sbs
 0.0.0.0 sfd.clickss.help
@@ -45270,6 +45320,7 @@
 0.0.0.0 shoppinghubh.info
 0.0.0.0 shoppingminds.net
 0.0.0.0 shopplk15.convertri.com
+0.0.0.0 shopplk18.convertri.com
 0.0.0.0 shopplk7.convertri.com
 0.0.0.0 shopplk8.convertri.com
 0.0.0.0 shopr-app.com
@@ -45679,6 +45730,7 @@
 0.0.0.0 skyprofittide.net
 0.0.0.0 skyreachharbor.cloud
 0.0.0.0 skysport.oewabox.at
+0.0.0.0 skywardinvexa.com
 0.0.0.0 skywardlentrix.com
 0.0.0.0 skywardlentrix.net
 0.0.0.0 skyway.capital
@@ -46455,6 +46507,7 @@
 0.0.0.0 somi.tiktokclaim.eu
 0.0.0.0 somideas.com
 0.0.0.0 sommer-cnc.com
+0.0.0.0 sommorinde.rest
 0.0.0.0 sommupopgu.world
 0.0.0.0 somnisceramics.com
 0.0.0.0 somniture.stuff.co.nz
@@ -46502,6 +46555,7 @@
 0.0.0.0 soplinks.com
 0.0.0.0 soports.fr
 0.0.0.0 soppesbonz.site
+0.0.0.0 sopprdesce.rest
 0.0.0.0 sopraacras.pro
 0.0.0.0 sopracoesi.world
 0.0.0.0 sopraeclip.world
@@ -46752,6 +46806,7 @@
 0.0.0.0 spiritsguideh.info
 0.0.0.0 spiritualbrakes.com
 0.0.0.0 spirivalen.pro
+0.0.0.0 spirosopra.rest
 0.0.0.0 spirulinplus.pl
 0.0.0.0 spitsmelli.world
 0.0.0.0 spixel.adsafeprotected.com
@@ -46825,6 +46880,7 @@
 0.0.0.0 sporwest.com
 0.0.0.0 sporysz.com
 0.0.0.0 sposaruzzo.world
+0.0.0.0 spossdesmo.rest
 0.0.0.0 spot-01.atas.io
 0.0.0.0 spot-01.trackingpro.pro
 0.0.0.0 spot-18x-sanorex.com
@@ -47198,6 +47254,7 @@
 0.0.0.0 stakim.org
 0.0.0.0 stakingsmile.com
 0.0.0.0 stalaspete.pro
+0.0.0.0 stalaveggh.rest
 0.0.0.0 stalesummer.com
 0.0.0.0 stalllium.info
 0.0.0.0 stalsrubiarnia.pl
@@ -48147,6 +48204,7 @@
 0.0.0.0 stupibenzo.casa
 0.0.0.0 stupidcelebrities.us.intellitxt.com
 0.0.0.0 stupiriass.world
+0.0.0.0 sturaesore.rest
 0.0.0.0 sturdygroft.net
 0.0.0.0 stuvo.info
 0.0.0.0 stuzzingob.world
@@ -50145,6 +50203,7 @@
 0.0.0.0 toolbarpartner.com
 0.0.0.0 toolbarwizard.vmn.net
 0.0.0.0 toolbazaar.com
+0.0.0.0 toolespl.shop
 0.0.0.0 toolforthought.com
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 tools.ad-net.co.uk
@@ -50915,6 +50974,7 @@
 0.0.0.0 tradapicks-ai.com
 0.0.0.0 trade-20avapro.com
 0.0.0.0 trade-500-alora.com
+0.0.0.0 trade-6-2-dinexio.com
 0.0.0.0 trade-80-definity.com
 0.0.0.0 trade-alrex-app.com
 0.0.0.0 trade-appai.net
@@ -52202,6 +52262,7 @@
 0.0.0.0 updateodysseyinfo.com
 0.0.0.0 updater.lionmobi.com
 0.0.0.0 updatesecure.pro
+0.0.0.0 updateserviceaccountwebappsasjdnajlwdnwajkfnjafneafcad.hoepfingers.com
 0.0.0.0 updatestar.com
 0.0.0.0 updating-link.com
 0.0.0.0 updating-url.com
@@ -52247,6 +52308,7 @@
 0.0.0.0 uptodatecontent.net
 0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 upvod.pl
+0.0.0.0 uquxperfect.top
 0.0.0.0 uqz.com
 0.0.0.0 urasmakina.com
 0.0.0.0 uraszincir.com
@@ -52470,6 +52532,7 @@
 0.0.0.0 utrace.fr
 0.0.0.0 utrack.hexun.com
 0.0.0.0 uts.kingoapp.com
+0.0.0.0 utsxlermi.zaplacic.lat
 0.0.0.0 uttsfikretpetrol.net
 0.0.0.0 uttsfikretpetrol.org
 0.0.0.0 utydiwapzwi.qweflasd.com
@@ -52694,6 +52757,7 @@
 0.0.0.0 vap5ewr1.lijit.com
 0.0.0.0 vap6ewr1.lijit.com
 0.0.0.0 vapixel.adsafeprotected.com
+0.0.0.0 varffinspire.com
 0.0.0.0 varicorin.pl
 0.0.0.0 varigfinzen-pro.com
 0.0.0.0 varigfinzen.com
@@ -53527,7 +53591,6 @@
 0.0.0.0 vinted.pl-oferta6728127.icu
 0.0.0.0 vinted.pl-oferta6734153.icu
 0.0.0.0 vinted.pl-oferta6734157.icu
-0.0.0.0 vinted.pl-oferta674286.sbs
 0.0.0.0 vinted.pl-oferta674892.sbs
 0.0.0.0 vinted.pl-oferta674893.sbs
 0.0.0.0 vinted.pl-oferta6783127.icu
@@ -53549,7 +53612,6 @@
 0.0.0.0 vinted.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 vinted.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 vinted.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 vinted.pl-oferta814932.sbs
 0.0.0.0 vinted.pl-oferta817285125.sbs
 0.0.0.0 vinted.pl-oferta84037449.cfd
 0.0.0.0 vinted.pl-oferta84037449.lol
@@ -53868,6 +53930,7 @@
 0.0.0.0 vlog.leadformix.com
 0.0.0.0 vlogerdine.2ix.ch
 0.0.0.0 vlotdexlinkapp.com
+0.0.0.0 vlotpaycorex-app.com
 0.0.0.0 vltwox7zl7h1wv.com
 0.0.0.0 vm5apis.com
 0.0.0.0 vmay.com
@@ -53894,6 +53957,7 @@
 0.0.0.0 vnumedia04.webtrekk.net
 0.0.0.0 vnunet.uk.intellitxt.com
 0.0.0.0 vocimitixa.world
+0.0.0.0 vocitgable.rest
 0.0.0.0 vod-base.com
 0.0.0.0 vod-film.pl
 0.0.0.0 vod-kino.pl
@@ -54783,6 +54847,7 @@
 0.0.0.0 whats-new.org
 0.0.0.0 whatsapp-app.com
 0.0.0.0 whatsappsupport.net
+0.0.0.0 whatseamanneed.com
 0.0.0.0 whatseek.com
 0.0.0.0 whatthetech.us.intellitxt.com
 0.0.0.0 whatzupz.com
@@ -55020,6 +55085,7 @@
 0.0.0.0 witch-counter.de
 0.0.0.0 withencrazysave.info
 0.0.0.0 withleather.us.intellitxt.com
+0.0.0.0 withsmanio.pro
 0.0.0.0 witkae-warsaw.com
 0.0.0.0 witkae-warszawa.com
 0.0.0.0 wittypopcorn.com
@@ -55460,7 +55526,9 @@
 0.0.0.0 www.0dax.com
 0.0.0.0 www.0e928d9197fj28422.sbs
 0.0.0.0 www.0ek38je.icu
+0.0.0.0 www.0ekhyff.lol
 0.0.0.0 www.0g254fw.icu
+0.0.0.0 www.0gjsdga1.eu
 0.0.0.0 www.0latfee.ero-advertising.com
 0.0.0.0 www.0lx.mo0rd2r.digital
 0.0.0.0 www.0mabgw.lat
@@ -56110,6 +56178,7 @@
 0.0.0.0 www.8streams.com
 0.0.0.0 www.8ue9q7i.com
 0.0.0.0 www.8vulkanvegas.com
+0.0.0.0 www.8whe5r.lat
 0.0.0.0 www.8wj2ywg.lat
 0.0.0.0 www.8wjeg5.lat
 0.0.0.0 www.8wjhuyge.sbs
@@ -57073,7 +57142,6 @@
 0.0.0.0 www.alebilet.65352.icu
 0.0.0.0 www.alebilet.6hs801nd81963uns7122.cfd
 0.0.0.0 www.alebilet.72648.me
-0.0.0.0 www.alebilet.72846.me
 0.0.0.0 www.alebilet.72848.me
 0.0.0.0 www.alebilet.73010.click
 0.0.0.0 www.alebilet.73284.click
@@ -57155,7 +57223,6 @@
 0.0.0.0 www.alebilet.oferta-4295512.icu
 0.0.0.0 www.alebilet.oferta-4968301.icu
 0.0.0.0 www.alebilet.oferta-7175768.icu
-0.0.0.0 www.alebilet.oferta-82615561.click
 0.0.0.0 www.alebilet.oferta-857891.icu
 0.0.0.0 www.alebilet.oferta-87491741.icu
 0.0.0.0 www.alebilet.oferta-882199.sbs
@@ -57292,7 +57359,6 @@
 0.0.0.0 www.alebilet.pl-oferta6728127.icu
 0.0.0.0 www.alebilet.pl-oferta6734153.icu
 0.0.0.0 www.alebilet.pl-oferta6734157.icu
-0.0.0.0 www.alebilet.pl-oferta674286.sbs
 0.0.0.0 www.alebilet.pl-oferta674892.sbs
 0.0.0.0 www.alebilet.pl-oferta674893.sbs
 0.0.0.0 www.alebilet.pl-oferta6783127.icu
@@ -57314,8 +57380,6 @@
 0.0.0.0 www.alebilet.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 www.alebilet.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 www.alebilet.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 www.alebilet.pl-oferta814932.sbs
-0.0.0.0 www.alebilet.pl-oferta817285125.sbs
 0.0.0.0 www.alebilet.pl-oferta84037449.cfd
 0.0.0.0 www.alebilet.pl-oferta84037449.lol
 0.0.0.0 www.alebilet.pl-oferta8407411.icu
@@ -57454,7 +57518,6 @@
 0.0.0.0 www.alebilet.plsd9klffgqlussbg01xk.icu
 0.0.0.0 www.alebilet.plsd9klffgterqp01xk.icu
 0.0.0.0 www.alebilet.plsd9klffgterzp01xk.icu
-0.0.0.0 www.alebilet.plsd9klflloawsqp01xk.icu
 0.0.0.0 www.alebilet.plsd9klfltolusqp01xk.icu
 0.0.0.0 www.alebilet.plsd9klfpolitic21.icu
 0.0.0.0 www.alebilet.plsd9klfukolusqp01xk.icu
@@ -57476,6 +57539,7 @@
 0.0.0.0 www.alekonta.pl
 0.0.0.0 www.alenai.cyou
 0.0.0.0 www.alenty.com
+0.0.0.0 www.aleoranumely.com
 0.0.0.0 www.aleperfumeria.pl
 0.0.0.0 www.alerter.pl
 0.0.0.0 www.alertnexusfeed.com
@@ -57696,6 +57760,7 @@
 0.0.0.0 www.allegro-lokalnie.pl-95451.sbs
 0.0.0.0 www.allegro-lokalnie.pl-98047.icu
 0.0.0.0 www.allegro-lokalnie.pl-98253.icu
+0.0.0.0 www.allegro-lokalnie.pl-oferta9014-apple-macbook-pro.cfd
 0.0.0.0 www.allegro-lokalnie.pl-prywatna8952971.icu
 0.0.0.0 www.allegro-lokalnie.pl34075013914.cfd
 0.0.0.0 www.allegro-lokalnie.pl5429rezerwacja2410.sbs
@@ -57736,7 +57801,6 @@
 0.0.0.0 www.allegro.037991.click
 0.0.0.0 www.allegro.03851.click
 0.0.0.0 www.allegro.038511.click
-0.0.0.0 www.allegro.0392-3949praynie.sbs
 0.0.0.0 www.allegro.040490.click
 0.0.0.0 www.allegro.04805.click
 0.0.0.0 www.allegro.053993papzjk.sbs
@@ -57913,7 +57977,6 @@
 0.0.0.0 www.allegro.9437855122593.click
 0.0.0.0 www.allegro.9523827ssa1.sbs
 0.0.0.0 www.allegro.95482.vu
-0.0.0.0 www.allegro.954ghjkprytanke.sbs
 0.0.0.0 www.allegro.973627.click
 0.0.0.0 www.allegro.983247.vu
 0.0.0.0 www.allegro.98765ty6.cyou
@@ -57984,7 +58047,6 @@
 0.0.0.0 www.allegro.oferta-4295512.icu
 0.0.0.0 www.allegro.oferta-4968301.icu
 0.0.0.0 www.allegro.oferta-7175768.icu
-0.0.0.0 www.allegro.oferta-82615561.click
 0.0.0.0 www.allegro.oferta-857891.icu
 0.0.0.0 www.allegro.oferta-87491741.icu
 0.0.0.0 www.allegro.oferta-882199.sbs
@@ -58137,7 +58199,6 @@
 0.0.0.0 www.allegro.pl-oferta6728127.icu
 0.0.0.0 www.allegro.pl-oferta6734153.icu
 0.0.0.0 www.allegro.pl-oferta6734157.icu
-0.0.0.0 www.allegro.pl-oferta674286.sbs
 0.0.0.0 www.allegro.pl-oferta674892.sbs
 0.0.0.0 www.allegro.pl-oferta674893.sbs
 0.0.0.0 www.allegro.pl-oferta6783127.icu
@@ -58159,7 +58220,6 @@
 0.0.0.0 www.allegro.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 www.allegro.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 www.allegro.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 www.allegro.pl-oferta814932.sbs
 0.0.0.0 www.allegro.pl-oferta84037449.cfd
 0.0.0.0 www.allegro.pl-oferta84037449.lol
 0.0.0.0 www.allegro.pl-oferta8407411.icu
@@ -58352,7 +58412,6 @@
 0.0.0.0 www.allegro.plsd9klffgqlussbg01xk.icu
 0.0.0.0 www.allegro.plsd9klffgterqp01xk.icu
 0.0.0.0 www.allegro.plsd9klffgterzp01xk.icu
-0.0.0.0 www.allegro.plsd9klflloawsqp01xk.icu
 0.0.0.0 www.allegro.plsd9klfltolusqp01xk.icu
 0.0.0.0 www.allegro.plsd9klfpolitic21.icu
 0.0.0.0 www.allegro.plsd9klfukolusqp01xk.icu
@@ -58378,7 +58437,6 @@
 0.0.0.0 www.allegro.pror1918s7-938g.sbs
 0.0.0.0 www.allegro.prot019282f-dd.cyou
 0.0.0.0 www.allegro.prow92810-509g9.sbs
-0.0.0.0 www.allegro.pry-3082s.cfd
 0.0.0.0 www.allegro.rifi18f11.cfd
 0.0.0.0 www.allegro.s510591.cfd
 0.0.0.0 www.allegro.sarze3072640-44.sbs
@@ -58612,8 +58670,6 @@
 0.0.0.0 www.allegrolokalne.pl-smart95781242.cfd
 0.0.0.0 www.allegrolokalne.pl-smart971247.cfd
 0.0.0.0 www.allegrolokalne.pl-smrat87412762.cfd
-0.0.0.0 www.allegrolokalne.pl34465064170.cfd
-0.0.0.0 www.allegrolokalne.pl73467064173.cfd
 0.0.0.0 www.allegrolokalne.plad2gsgaas17xk.icu
 0.0.0.0 www.allegrolokalne.plad2gskajs11xk.icu
 0.0.0.0 www.allegrolokalne.plax2gsgaas17xk.icu
@@ -58668,6 +58724,7 @@
 0.0.0.0 www.allegrolokalnie.09505.click
 0.0.0.0 www.allegrolokalnie.09530.click
 0.0.0.0 www.allegrolokalnie.09958.click
+0.0.0.0 www.allegrolokalnie.0995811.click
 0.0.0.0 www.allegrolokalnie.0e928d9197fj28422.sbs
 0.0.0.0 www.allegrolokalnie.0gloszenie5819501.click
 0.0.0.0 www.allegrolokalnie.0gloszenie612967.cfd
@@ -58818,6 +58875,7 @@
 0.0.0.0 www.allegrolokalnie.99077.click
 0.0.0.0 www.allegrolokalnie.992389238523.sbs
 0.0.0.0 www.allegrolokalnie.99571.click
+0.0.0.0 www.allegrolokalnie.99600.sale
 0.0.0.0 www.allegrolokalnie.9974823847234.cfd
 0.0.0.0 www.allegrolokalnie.99812.pl
 0.0.0.0 www.allegrolokalnie.9deu28y2y3h2912e28232.cfd
@@ -58905,7 +58963,6 @@
 0.0.0.0 www.allegrolokalnie.oferta-1834382-proponowane-dla-ciebie.icu
 0.0.0.0 www.allegrolokalnie.oferta-1854413-proponowane-dla-ciebie.icu
 0.0.0.0 www.allegrolokalnie.oferta-233345221-kategoria-dla-ciebie.sbs
-0.0.0.0 www.allegrolokalnie.oferta-23942-dla-ciebie-proponowana.icu
 0.0.0.0 www.allegrolokalnie.oferta-24509235-kategoria-dla-ciebie.icu
 0.0.0.0 www.allegrolokalnie.oferta-256763331-kategoria-dla-ciebie.sbs
 0.0.0.0 www.allegrolokalnie.oferta-34467222-kategoria-dla-ciebie.sbs
@@ -58931,7 +58988,6 @@
 0.0.0.0 www.allegrolokalnie.oferta-65782909-kategoria-dla-ciebie.sbs
 0.0.0.0 www.allegrolokalnie.oferta-7175768.icu
 0.0.0.0 www.allegrolokalnie.oferta-77782909-kategoria-dla-ciebie.sbs
-0.0.0.0 www.allegrolokalnie.oferta-82615561.click
 0.0.0.0 www.allegrolokalnie.oferta-83942-dla-ciebie-proponowana.icu
 0.0.0.0 www.allegrolokalnie.oferta-857891.icu
 0.0.0.0 www.allegrolokalnie.oferta-87491741.icu
@@ -58988,7 +59044,6 @@
 0.0.0.0 www.allegrolokalnie.oferta867341.sbs
 0.0.0.0 www.allegrolokalnie.oferta869342.sbs
 0.0.0.0 www.allegrolokalnie.oferty-1246741-proponowane-dla-ciebie.icu
-0.0.0.0 www.allegrolokalnie.oferty-12474-dla-ciebie-proponowana.icu
 0.0.0.0 www.allegrolokalnie.oferty-kategoria-popularne-12446811.sbs
 0.0.0.0 www.allegrolokalnie.oferty-kategoria-popularne-12503474.sbs
 0.0.0.0 www.allegrolokalnie.oferty-kategoria-popularne-129847.sbs
@@ -59006,17 +59061,12 @@
 0.0.0.0 www.allegrolokalnie.oferty-kategoria-popularne-16404681.sbs
 0.0.0.0 www.allegrolokalnie.oferty-kategoria-popularne-1644681.sbs
 0.0.0.0 www.allegrolokalnie.oferty-kategoria-popularne-16474712.sbs
-0.0.0.0 www.allegrolokalnie.oferty-kategoria-proponowanie-13242-dla-ciebie.icu
-0.0.0.0 www.allegrolokalnie.oferty-kategoria-proponowanie-15242-dla-ciebie.icu
-0.0.0.0 www.allegrolokalnie.oferty-kategoria-proponowanie-16242-dla-ciebie.icu
-0.0.0.0 www.allegrolokalnie.oferty-kategoria-proponowanie-17242-dla-ciebie.icu
-0.0.0.0 www.allegrolokalnie.oferty-kategoria-proponowanie-23242-dla-ciebie.icu
-0.0.0.0 www.allegrolokalnie.oferty-kategoria-proponowanie-27232-dla-ciebie.icu
 0.0.0.0 www.allegrolokalnie.oferty-narzedzia-127362.cfd
 0.0.0.0 www.allegrolokalnie.ogl0sz3nie6912379.top
 0.0.0.0 www.allegrolokalnie.ogl0szenie68591.click
 0.0.0.0 www.allegrolokalnie.ogl0szenie795183.top
 0.0.0.0 www.allegrolokalnie.ogloszenie-47235.cfd
+0.0.0.0 www.allegrolokalnie.okli9870lk9jk99.biz
 0.0.0.0 www.allegrolokalnie.p152x7183x77312.sbs
 0.0.0.0 www.allegrolokalnie.p278x82994413.sbs
 0.0.0.0 www.allegrolokalnie.p4jgsdcj3rj4.sbs
@@ -59143,6 +59193,7 @@
 0.0.0.0 www.allegrolokalnie.pl-2415784.icu
 0.0.0.0 www.allegrolokalnie.pl-241886.cfd
 0.0.0.0 www.allegrolokalnie.pl-241966.cfd
+0.0.0.0 www.allegrolokalnie.pl-247468.cfd
 0.0.0.0 www.allegrolokalnie.pl-248427.cfd
 0.0.0.0 www.allegrolokalnie.pl-25413657.icu
 0.0.0.0 www.allegrolokalnie.pl-25415674.icu
@@ -59497,7 +59548,6 @@
 0.0.0.0 www.allegrolokalnie.pl-oferta196912.icu
 0.0.0.0 www.allegrolokalnie.pl-oferta2010944.cfd
 0.0.0.0 www.allegrolokalnie.pl-oferta21371.icu
-0.0.0.0 www.allegrolokalnie.pl-oferta23132.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta231421.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta232124.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta23768479.sbs
@@ -59557,7 +59607,6 @@
 0.0.0.0 www.allegrolokalnie.pl-oferta6728127.icu
 0.0.0.0 www.allegrolokalnie.pl-oferta6734153.icu
 0.0.0.0 www.allegrolokalnie.pl-oferta6734157.icu
-0.0.0.0 www.allegrolokalnie.pl-oferta674286.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta674892.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta674893.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta67793456.icu
@@ -59585,8 +59634,6 @@
 0.0.0.0 www.allegrolokalnie.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 www.allegrolokalnie.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 www.allegrolokalnie.pl-oferta814932.sbs
-0.0.0.0 www.allegrolokalnie.pl-oferta817285125.sbs
 0.0.0.0 www.allegrolokalnie.pl-oferta82594.cfd
 0.0.0.0 www.allegrolokalnie.pl-oferta84037449.cfd
 0.0.0.0 www.allegrolokalnie.pl-oferta84037449.lol
@@ -59824,7 +59871,6 @@
 0.0.0.0 www.allegrolokalnie.plsd9klffgqlussbg01xk.icu
 0.0.0.0 www.allegrolokalnie.plsd9klffgterqp01xk.icu
 0.0.0.0 www.allegrolokalnie.plsd9klffgterzp01xk.icu
-0.0.0.0 www.allegrolokalnie.plsd9klflloawsqp01xk.icu
 0.0.0.0 www.allegrolokalnie.plsd9klflrdmwsxd01xk.icu
 0.0.0.0 www.allegrolokalnie.plsd9klfltolusqp01xk.icu
 0.0.0.0 www.allegrolokalnie.plsd9klfpolitic21.icu
@@ -59946,6 +59992,7 @@
 0.0.0.0 www.alzcreativity.com
 0.0.0.0 www.am-dewsd.com
 0.0.0.0 www.am-pedig.com
+0.0.0.0 www.amalivo-app.com
 0.0.0.0 www.amanaprimex.com
 0.0.0.0 www.amandagreenstudio.com
 0.0.0.0 www.amaranthineg.info
@@ -60051,6 +60098,7 @@
 0.0.0.0 www.andennumero5.com
 0.0.0.0 www.andersfriberg.com
 0.0.0.0 www.andersondiamonds.com
+0.0.0.0 www.andersonrodriguez.com
 0.0.0.0 www.andesbiltox.com
 0.0.0.0 www.andr.net
 0.0.0.0 www.andreosmos.homes
@@ -60320,6 +60368,7 @@
 0.0.0.0 www.arfgroupalanya.com
 0.0.0.0 www.argeklima.net
 0.0.0.0 www.argent-online2025.com
+0.0.0.0 www.argentiscapora.com
 0.0.0.0 www.argentisgridgptai.net
 0.0.0.0 www.argentoflowdex-app.com
 0.0.0.0 www.argentremo.pro
@@ -60371,6 +60420,7 @@
 0.0.0.0 www.arthurpantelides.com
 0.0.0.0 www.artifactsworldh.info
 0.0.0.0 www.artificialintelligencehubh.info
+0.0.0.0 www.artildisas.rest
 0.0.0.0 www.artirgvi.com
 0.0.0.0 www.artislandl.info
 0.0.0.0 www.artisticimpressions20d.info
@@ -60454,6 +60504,7 @@
 0.0.0.0 www.assiljacka.world
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.assoc-amazon.jp
+0.0.0.0 www.assunriacc.rest
 0.0.0.0 www.assuvasavunmasanayi.com
 0.0.0.0 www.astalavista.us
 0.0.0.0 www.astenterprises.com.pk
@@ -60567,6 +60618,7 @@
 0.0.0.0 www.aumentaliora.net
 0.0.0.0 www.aumento-nexal.net
 0.0.0.0 www.aunhi.org
+0.0.0.0 www.auntrix-cipher-ai.com
 0.0.0.0 www.auradelunadao.com
 0.0.0.0 www.auramarginers.com
 0.0.0.0 www.auramuhendislik.com
@@ -60760,6 +60812,7 @@
 0.0.0.0 www.baba-t.com
 0.0.0.0 www.babildista.pro
 0.0.0.0 www.babiridor.site
+0.0.0.0 www.baby.vip-pl.top
 0.0.0.0 www.babyassy.com
 0.0.0.0 www.babyboofashionpolska.com
 0.0.0.0 www.babylyst.com
@@ -61759,6 +61812,7 @@
 0.0.0.0 www.btcoctelaai.com
 0.0.0.0 www.btcoctelaapp.com
 0.0.0.0 www.btcrevolution.cloud
+0.0.0.0 www.btcruz-app.com
 0.0.0.0 www.btcsoulai.com
 0.0.0.0 www.btctraderai.net
 0.0.0.0 www.btcturkyzai.com
@@ -61790,6 +61844,7 @@
 0.0.0.0 www.buildmuse.buzz
 0.0.0.0 www.buildtraffic.com
 0.0.0.0 www.buildtravell.info
+0.0.0.0 www.builduify.live
 0.0.0.0 www.builtbytodd.com
 0.0.0.0 www.bujuni.online
 0.0.0.0 www.bukavi.pl
@@ -61808,6 +61863,7 @@
 0.0.0.0 www.bunghub.pl
 0.0.0.0 www.bunyaminhalac.com
 0.0.0.0 www.burbujahotelmadrid.com
+0.0.0.0 www.burbujahotels.com
 0.0.0.0 www.burdanalcam.net
 0.0.0.0 www.buriktrader.com
 0.0.0.0 www.buriktrader111plunki.com
@@ -61929,6 +61985,7 @@
 0.0.0.0 www.calworthingtonford.com
 0.0.0.0 www.caly-film.refy.pl
 0.0.0.0 www.caly-hd-pl.blogspot.com
+0.0.0.0 www.calyvosbotyx.com
 0.0.0.0 www.cam4.fr
 0.0.0.0 www.cambio8.com
 0.0.0.0 www.cambodiaoutsourcing.com
@@ -62378,6 +62435,7 @@
 0.0.0.0 www.cici-luna.com
 0.0.0.0 www.ciekawe24.pl.ua
 0.0.0.0 www.cielito-profitron.net
+0.0.0.0 www.ciemnastronafaktow.com
 0.0.0.0 www.cienum.fr
 0.0.0.0 www.ciezkieczasy.is-best.net
 0.0.0.0 www.cifapizoy.world
@@ -62721,6 +62779,7 @@
 0.0.0.0 www.comeisolarecasa.it
 0.0.0.0 www.comercialvahe.sbs
 0.0.0.0 www.comercio-invexon-app.com
+0.0.0.0 www.comerciofundoriax.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.comfybaby.pl
 0.0.0.0 www.comiapelag.pro
@@ -63271,6 +63330,7 @@
 0.0.0.0 www.cyphiximmediate.com
 0.0.0.0 www.cypruscityguide.com
 0.0.0.0 www.cypruscusupport.help
+0.0.0.0 www.cyranifyrviax.net
 0.0.0.0 www.cyrynee2.com
 0.0.0.0 www.cystoimbal.homes
 0.0.0.0 www.cysyvau.com
@@ -63514,6 +63574,7 @@
 0.0.0.0 www.deeptrailresearch.live
 0.0.0.0 www.deepwaveanalytics.life
 0.0.0.0 www.deepwickharbor.world
+0.0.0.0 www.defasensha.rest
 0.0.0.0 www.defatcompr.pro
 0.0.0.0 www.defaultinternet.com
 0.0.0.0 www.defersonlo.top
@@ -63778,6 +63839,7 @@
 0.0.0.0 www.discobarac.pro
 0.0.0.0 www.discocolti.rest
 0.0.0.0 www.discodivia.world
+0.0.0.0 www.discoledge.rest
 0.0.0.0 www.discomandi.world
 0.0.0.0 www.discomusse.rest
 0.0.0.0 www.discontinuoustotalizer.com
@@ -63998,7 +64060,9 @@
 0.0.0.0 www.dp-medien.eu
 0.0.0.0 www.dpbolvw.net
 0.0.0.0 www.dpctrust.com
+0.0.0.0 www.dpd-pl.sendofxtjn.shop
 0.0.0.0 www.dpd-pl.simelano.cfd
+0.0.0.0 www.dpd.hulekao.vu
 0.0.0.0 www.dpd.kacevis.icu
 0.0.0.0 www.dpdpaczka.plaka189.cyou
 0.0.0.0 www.dpdpaczka.prizkal33.cfd
@@ -64120,6 +64184,7 @@
 0.0.0.0 www.duzcekestanesi.com
 0.0.0.0 www.dv25cfe4fmu5k.cloudfront.net
 0.0.0.0 www.dv4koe.icu
+0.0.0.0 www.dvall.weisscraft.com
 0.0.0.0 www.dvamd.com
 0.0.0.0 www.dw9dsi.hair
 0.0.0.0 www.dwarfscommemorat53iaave.info
@@ -64185,6 +64250,7 @@
 0.0.0.0 www.earnify.com
 0.0.0.0 www.earnsylvex.net
 0.0.0.0 www.earthweaverg.info
+0.0.0.0 www.easdpro.shop
 0.0.0.0 www.easiabet.com
 0.0.0.0 www.eastcliffstone.cloud
 0.0.0.0 www.eastwood35.idps.co.uk
@@ -64295,6 +64361,7 @@
 0.0.0.0 www.eecsandiego.com
 0.0.0.0 www.eedclicks.ero-advertising.com
 0.0.0.0 www.eelhoe.us
+0.0.0.0 www.eelsetal.rest
 0.0.0.0 www.eelsoup.net
 0.0.0.0 www.eesql.com
 0.0.0.0 www.ef8a258604da46c0878ed079f00f2dd7.6-cmx-1.com
@@ -64328,6 +64395,7 @@
 0.0.0.0 www.eirikureiriksson.com
 0.0.0.0 www.eivamos.com
 0.0.0.0 www.eixo-portfinex-pro.com
+0.0.0.0 www.eixoinviolex.com
 0.0.0.0 www.eixoportfinex.com
 0.0.0.0 www.ejefinsoria.com
 0.0.0.0 www.ejne739je.icu
@@ -64595,6 +64663,7 @@
 0.0.0.0 www.eromansik.pl
 0.0.0.0 www.eronplus.pl
 0.0.0.0 www.eropteka.com.pl
+0.0.0.0 www.erosiresub.rest
 0.0.0.0 www.erosponsorki.pl
 0.0.0.0 www.erotilink.com
 0.0.0.0 www.erotycznepanie.pl
@@ -64714,6 +64783,7 @@
 0.0.0.0 www.etroxpro1000.com
 0.0.0.0 www.etroxpro2000.com
 0.0.0.0 www.etroxproapp.com
+0.0.0.0 www.etuctool.digital
 0.0.0.0 www.eu-insider-app.com
 0.0.0.0 www.eu-survey.com
 0.0.0.0 www.euadoroisso.com.br
@@ -64752,6 +64822,7 @@
 0.0.0.0 www.evelynchng.com
 0.0.0.0 www.evendors.org
 0.0.0.0 www.event-tracking.com
+0.0.0.0 www.eventspacc.rest
 0.0.0.0 www.eventupdatesexclusive.com
 0.0.0.0 www.eventworldh.info
 0.0.0.0 www.evercoreconsulting.mom
@@ -64938,6 +65009,7 @@
 0.0.0.0 www.facebookunblocking.com
 0.0.0.0 www.facetirrel.world
 0.0.0.0 www.facewatch.borec.cz
+0.0.0.0 www.faciephyto.rest
 0.0.0.0 www.facilitategovernor.com
 0.0.0.0 www.faciogratt.pro
 0.0.0.0 www.factflowexpress.pro
@@ -65208,6 +65280,7 @@
 0.0.0.0 www.fileice.net
 0.0.0.0 www.fileman.pl
 0.0.0.0 www.fileoasis.net
+0.0.0.0 www.fileroop.de.cool
 0.0.0.0 www.filesdock.com
 0.0.0.0 www.filesenzu.com
 0.0.0.0 www.filespeedy.net
@@ -65222,6 +65295,7 @@
 0.0.0.0 www.filivod.pl
 0.0.0.0 www.filjuridica.com
 0.0.0.0 www.fillmorecentral.instructure.com
+0.0.0.0 www.fillosheep.rest
 0.0.0.0 www.film-base.pl
 0.0.0.0 www.film-flix.pl
 0.0.0.0 www.film-rs.revolublog.com
@@ -65423,6 +65497,7 @@
 0.0.0.0 www.fishphotol.info
 0.0.0.0 www.fishworldh.info
 0.0.0.0 www.fishworldl.info
+0.0.0.0 www.fisi.clearsbranch.com
 0.0.0.0 www.fistubianc.pro
 0.0.0.0 www.fistucanva.site
 0.0.0.0 www.fit-poradnik.pl
@@ -65564,11 +65639,13 @@
 0.0.0.0 www.folloyu.com
 0.0.0.0 www.fomchoby.digital
 0.0.0.0 www.fomommilk.com
+0.0.0.0 www.fonatrazze.rest
 0.0.0.0 www.fondabonno.site
 0.0.0.0 www.fondmatexapp.net
 0.0.0.0 www.fondsvirex.com
 0.0.0.0 www.fonksiyoneltipeczaciligi.com
 0.0.0.0 www.fonoselega.com
+0.0.0.0 www.fontanerosrca.com
 0.0.0.0 www.fonvaultaris.com
 0.0.0.0 www.food-offer.com
 0.0.0.0 www.food-time.com
@@ -65819,6 +65896,7 @@
 0.0.0.0 www.fuckfinder.com
 0.0.0.0 www.fuckforfree.com
 0.0.0.0 www.fuckworld.com
+0.0.0.0 www.fuerahumedades.com
 0.0.0.0 www.fugconsectenumquam.xyz
 0.0.0.0 www.fujazumeqigo.com
 0.0.0.0 www.fujitatekkou.com
@@ -66916,6 +66994,7 @@
 0.0.0.0 www.hatuby.com
 0.0.0.0 www.hauteaccents.com
 0.0.0.0 www.hautetee.com
+0.0.0.0 www.hautiercalyron.com
 0.0.0.0 www.havencrestg.info
 0.0.0.0 www.havenfieldg.info
 0.0.0.0 www.havenlightg.info
@@ -67926,6 +68005,7 @@
 0.0.0.0 www.ingruabbuo.world
 0.0.0.0 www.inguaulimo.homes
 0.0.0.0 www.inheruncom.world
+0.0.0.0 www.inici-dirrecion.com
 0.0.0.0 www.iniziativaeterna.net
 0.0.0.0 www.inkscape.es
 0.0.0.0 www.inkscape.fr
@@ -68225,6 +68305,7 @@
 0.0.0.0 www.ironforgepartners.mom
 0.0.0.0 www.irongate-luxten-software.com
 0.0.0.0 www.irongate-luxten.net
+0.0.0.0 www.irongateluxten-app.com
 0.0.0.0 www.irongateluxten.net
 0.0.0.0 www.ironharboranalytics.life
 0.0.0.0 www.ironharboranalytics.live
@@ -68279,6 +68360,7 @@
 0.0.0.0 www.irs-btech-distributie.online
 0.0.0.0 www.is1.clixgalore.com
 0.0.0.0 www.isabelladiva.com
+0.0.0.0 www.isamego.pl
 0.0.0.0 www.isaveliler.com
 0.0.0.0 www.ischekazat.pro
 0.0.0.0 www.ischisperp.site
@@ -68458,6 +68540,7 @@
 0.0.0.0 www.joefazer.net
 0.0.0.0 www.joekeery.org
 0.0.0.0 www.jogalodz.pl
+0.0.0.0 www.jogucue.com
 0.0.0.0 www.johnparkforcitycouncil.com
 0.0.0.0 www.joincreditexpert.co.uk
 0.0.0.0 www.joinhoney.com
@@ -68706,6 +68789,7 @@
 0.0.0.0 www.ketodietp.com
 0.0.0.0 www.ketodrov.com
 0.0.0.0 www.ketquaxosotoancau.org
+0.0.0.0 www.kevetuu.com
 0.0.0.0 www.kevindhobbs.com
 0.0.0.0 www.kevinsaquariums.com
 0.0.0.0 www.kevorzayul.com
@@ -68903,6 +68987,7 @@
 0.0.0.0 www.kraled.com
 0.0.0.0 www.krankartgallery.com
 0.0.0.0 www.kratomfiesta.com
+0.0.0.0 www.kratos-ai.net
 0.0.0.0 www.krdn.pl
 0.0.0.0 www.kreaffiliation.com
 0.0.0.0 www.kredirehberi.net
@@ -69194,6 +69279,7 @@
 0.0.0.0 www.lentrixflow.net
 0.0.0.0 www.lentrixflowapp.com
 0.0.0.0 www.leonbergery.com.pl
+0.0.0.0 www.leonderuta.com
 0.0.0.0 www.leongcoklcc.com
 0.0.0.0 www.lepagebag.com
 0.0.0.0 www.leptorimes.pro
@@ -69232,6 +69318,7 @@
 0.0.0.0 www.lhg-licensing.com
 0.0.0.0 www.lhoaqlco.mickaelbook.com
 0.0.0.0 www.lhzvkxkf.radarsaw.com
+0.0.0.0 www.liabangart.com
 0.0.0.0 www.libadao6.com
 0.0.0.0 www.libecki.net
 0.0.0.0 www.liberalization.info
@@ -69288,6 +69375,7 @@
 0.0.0.0 www.lilyclan-warriors.blogspot.com
 0.0.0.0 www.lilyrivera.shop
 0.0.0.0 www.lilytailsblog.blogspot.com
+0.0.0.0 www.limatcorro.rest
 0.0.0.0 www.limbldisca.pro
 0.0.0.0 www.limeaappun.pro
 0.0.0.0 www.limebike9.net
@@ -69765,6 +69853,7 @@
 0.0.0.0 www.managwebappacpresecureadfhfy.ptanomali7.biz.id
 0.0.0.0 www.managwebappsecureacconshwkseryhgkuj346tdfg.pcanomali6.biz.id
 0.0.0.0 www.managwebappsecureacconstasoihwesiolfsdeghasdw.professorx3.biz.id
+0.0.0.0 www.managwebappswejkfhkusdfff.strangled.net
 0.0.0.0 www.mancamyxoc.world
 0.0.0.0 www.mandarv.com
 0.0.0.0 www.mangayhentai.com
@@ -69992,6 +70081,7 @@
 0.0.0.0 www.mftracking.com
 0.0.0.0 www.mgid.com
 0.0.0.0 www.mgo.xyno.online
+0.0.0.0 www.mguid.click
 0.0.0.0 www.mhpellet.com
 0.0.0.0 www.miami.ero-advertising.com
 0.0.0.0 www.miasesy.com
@@ -70230,6 +70320,7 @@
 0.0.0.0 www.movieboxpro.cc
 0.0.0.0 www.moviecpot.com
 0.0.0.0 www.moviehall.site
+0.0.0.0 www.movies-poland.info
 0.0.0.0 www.moviesae.cc
 0.0.0.0 www.moviesearchcenter.com
 0.0.0.0 www.moviestarplanethacks.pl
@@ -70679,6 +70770,7 @@
 0.0.0.0 www.nexmist-trade-ai.net
 0.0.0.0 www.nexmistai.com
 0.0.0.0 www.nexmistaxiomai.net
+0.0.0.0 www.nexo-365-valerza.com
 0.0.0.0 www.nexonix-app.net
 0.0.0.0 www.nexonixprofitapp.net
 0.0.0.0 www.nexoqix.net
@@ -70767,6 +70859,7 @@
 0.0.0.0 www.nivexiscoregptapp.net
 0.0.0.0 www.nix-komik.blogspot.com
 0.0.0.0 www.nixpy.com
+0.0.0.0 www.njastre.com
 0.0.0.0 www.njperuviansinc.com
 0.0.0.0 www.nklimenko.com
 0.0.0.0 www.nl1.ero-advertising.com
@@ -70834,6 +70927,7 @@
 0.0.0.0 www.nonsaklig.pro
 0.0.0.0 www.nonstopvideos.pl
 0.0.0.0 www.nonsudyne.pro
+0.0.0.0 www.nonsusensi.rest
 0.0.0.0 www.nontegramo.rest
 0.0.0.0 www.nontrhippa.pro
 0.0.0.0 www.nonvvhalip.world
@@ -71084,6 +71178,7 @@
 0.0.0.0 www.oblirammas.cyou
 0.0.0.0 www.oblirexget.net
 0.0.0.0 www.oblirexo.net
+0.0.0.0 www.oblonlingo.pro
 0.0.0.0 www.obscenewoman4n.com
 0.0.0.0 www.obsidianquantrex.com
 0.0.0.0 www.obudzgeniusza.pl
@@ -71456,6 +71551,7 @@
 0.0.0.0 www.olx.98765ty6.cyou
 0.0.0.0 www.olx.98d010du2j2381u1332.cfd
 0.0.0.0 www.olx.99077.click
+0.0.0.0 www.olx.99600.sale
 0.0.0.0 www.olx.9deu28y2y3h2912e28232.cfd
 0.0.0.0 www.olx.9t88t83ht37.cfd
 0.0.0.0 www.olx.a556888-113.cyou
@@ -71692,7 +71788,6 @@
 0.0.0.0 www.olx.pl-oferta6728127.icu
 0.0.0.0 www.olx.pl-oferta6734153.icu
 0.0.0.0 www.olx.pl-oferta6734157.icu
-0.0.0.0 www.olx.pl-oferta674286.sbs
 0.0.0.0 www.olx.pl-oferta674892.sbs
 0.0.0.0 www.olx.pl-oferta674893.sbs
 0.0.0.0 www.olx.pl-oferta6783127.icu
@@ -71714,7 +71809,6 @@
 0.0.0.0 www.olx.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 www.olx.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 www.olx.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 www.olx.pl-oferta814932.sbs
 0.0.0.0 www.olx.pl-oferta817285125.sbs
 0.0.0.0 www.olx.pl-oferta84037449.cfd
 0.0.0.0 www.olx.pl-oferta84037449.lol
@@ -71913,8 +72007,6 @@
 0.0.0.0 www.olx.plsd9klagzb01xk.icu
 0.0.0.0 www.olx.plsd9klazb02xk.icu
 0.0.0.0 www.olx.plsd9klazs02xk.icu
-0.0.0.0 www.olx.plsd9klfbaudwsxd01xk.icu
-0.0.0.0 www.olx.plsd9klfbirmwsxd01xk.icu
 0.0.0.0 www.olx.plsd9klffggrkolz01xk.icu
 0.0.0.0 www.olx.plsd9klffggterqp01xk.icu
 0.0.0.0 www.olx.plsd9klffgkaghbg01xk.icu
@@ -72142,6 +72234,7 @@
 0.0.0.0 www.ordexiaplus.net
 0.0.0.0 www.ordexiapro.net
 0.0.0.0 www.ordexiatitan.net
+0.0.0.0 www.ordexiatrader.net
 0.0.0.0 www.ordupalyaco.com
 0.0.0.0 www.oreforgeminds.com
 0.0.0.0 www.oreforgeminds.net
@@ -72236,6 +72329,7 @@
 0.0.0.0 www.ourbooking.net
 0.0.0.0 www.ourfuckbook.com
 0.0.0.0 www.out-of-office-on.com
+0.0.0.0 www.outbehimse.rest
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.outbrenarm.homes
 0.0.0.0 www.outbrxini.site
@@ -72257,6 +72351,7 @@
 0.0.0.0 www.overhaulswave.demetriarose.com
 0.0.0.0 www.overirinca.homes
 0.0.0.0 www.overlinocu.pro
+0.0.0.0 www.overmraddo.rest
 0.0.0.0 www.overnear.info
 0.0.0.0 www.overorlenpost.my-free.website
 0.0.0.0 www.overpmatal.world
@@ -72286,6 +72381,7 @@
 0.0.0.0 www.oxx7opl.yi1yml.lat
 0.0.0.0 www.oxx7opl.ym9dtr.cyou
 0.0.0.0 www.oygintercity.com
+0.0.0.0 www.oypdwa.zaplacic.homes
 0.0.0.0 www.oz-offers.com
 0.0.0.0 www.oz2mfz.icu
 0.0.0.0 www.ozarixtrade50app.com
@@ -72340,12 +72436,14 @@
 0.0.0.0 www.paczka.taltion.icu
 0.0.0.0 www.paczka.tasanga.cfd
 0.0.0.0 www.paczka.tatielan.lol
+0.0.0.0 www.paczka.vesetda.sbs
 0.0.0.0 www.paczkiwciemno.pl
 0.0.0.0 www.paczuli.pl
 0.0.0.0 www.padaurachi.sbs
 0.0.0.0 www.pafiilate.byethost32.com
 0.0.0.0 www.pafikabjember.org
 0.0.0.0 www.pagarcorru.pro
+0.0.0.0 www.pagebwh-enter11.com
 0.0.0.0 www.pagepeel.ero-advertising.com
 0.0.0.0 www.pagerank10.co.uk
 0.0.0.0 www.paginaswebalcala.com
@@ -72389,6 +72487,7 @@
 0.0.0.0 www.paniezukrainy.pl
 0.0.0.0 www.panta.sakura.ne.jp
 0.0.0.0 www.pantonears.rest
+0.0.0.0 www.pantraccar.rest
 0.0.0.0 www.pants-shop.com
 0.0.0.0 www.pantuimbro.site
 0.0.0.0 www.paoliumc.org
@@ -72405,6 +72504,7 @@
 0.0.0.0 www.parabscrip.homes
 0.0.0.0 www.parachute-consulting.com
 0.0.0.0 www.paradanhaber.net
+0.0.0.0 www.paradiseteneriferentals.com
 0.0.0.0 www.parado.pl
 0.0.0.0 www.paragongrivex.com
 0.0.0.0 www.paragonixprimexapp.net
@@ -72579,6 +72679,7 @@
 0.0.0.0 www.percentageslead.shop
 0.0.0.0 www.perequnfit.site
 0.0.0.0 www.perfacoher.pro
+0.0.0.0 www.perfectcircle.click
 0.0.0.0 www.perfectfavoritescenter.shop
 0.0.0.0 www.perfectfeednews.com
 0.0.0.0 www.perfectgirls.net
@@ -73622,6 +73723,7 @@
 0.0.0.0 www.pollomikes.com
 0.0.0.0 www.polowapazdziernika.wixsite.com
 0.0.0.0 www.polrandki.com
+0.0.0.0 www.polryxobotix.com
 0.0.0.0 www.polsatboxingnight-transmisjahd.ujm.pl
 0.0.0.0 www.polsatonlinetelewizja.blogspot.com
 0.0.0.0 www.polsatsporthd.blogspot.com
@@ -73697,6 +73799,8 @@
 0.0.0.0 www.pos1991-1s5.cyou
 0.0.0.0 www.poshbay.com
 0.0.0.0 www.poshclothings.com
+0.0.0.0 www.posittreel.rest
+0.0.0.0 www.posizreaso.rest
 0.0.0.0 www.posomafyukoca.cloud
 0.0.0.0 www.postads24.com
 0.0.0.0 www.postekturkiye.com
@@ -73722,6 +73826,7 @@
 0.0.0.0 www.powerchartux72app.net
 0.0.0.0 www.powerdesertl.info
 0.0.0.0 www.powerdogl.info
+0.0.0.0 www.powerevex.net
 0.0.0.0 www.powerlinks.com
 0.0.0.0 www.powernavix70.com
 0.0.0.0 www.powerofprofit2026.com
@@ -73918,6 +74023,7 @@
 0.0.0.0 www.profithorizon.net
 0.0.0.0 www.profitianexus.com
 0.0.0.0 www.profitianexus.net
+0.0.0.0 www.profitifybah-app.com
 0.0.0.0 www.profitiumvista-platform.com
 0.0.0.0 www.profitiumvista.com
 0.0.0.0 www.profitixsolid.com
@@ -74297,6 +74403,7 @@
 0.0.0.0 www.queronixtraderai.com
 0.0.0.0 www.questpioneer.digital
 0.0.0.0 www.questtrack.info
+0.0.0.0 www.questvision.digital
 0.0.0.0 www.quickbrowsersearch.com
 0.0.0.0 www.quickcreditscore.co.uk
 0.0.0.0 www.quickfactchecker.pro
@@ -74702,6 +74809,7 @@
 0.0.0.0 www.riacctumul.pro
 0.0.0.0 www.riadomispe.world
 0.0.0.0 www.riaggrosic.pro
+0.0.0.0 www.riallgemle.rest
 0.0.0.0 www.riappintar.world
 0.0.0.0 www.riappmarsa.pro
 0.0.0.0 www.riappnonfu.site
@@ -74729,6 +74837,7 @@
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.ricondrags.pro
 0.0.0.0 www.riconlitig.com
+0.0.0.0 www.riconpaper.rest
 0.0.0.0 www.riconriabi.pro
 0.0.0.0 www.riconstill.pro
 0.0.0.0 www.ricordedur.pro
@@ -74805,6 +74914,7 @@
 0.0.0.0 www.ringtonematcher.com
 0.0.0.0 www.ringtonepartner.com
 0.0.0.0 www.rinsareden.site
+0.0.0.0 www.rintasterr.rest
 0.0.0.0 www.rintavascu.casa
 0.0.0.0 www.rinteechog.casa
 0.0.0.0 www.rintefilig.homes
@@ -75116,6 +75226,10 @@
 0.0.0.0 www.s5oftneon.info
 0.0.0.0 www.s5ourceopeen.info
 0.0.0.0 www.s66wift.info
+0.0.0.0 www.s6eedd.info
+0.0.0.0 www.s6ource.info
+0.0.0.0 www.s6park.info
+0.0.0.0 www.s6tackonline.info
 0.0.0.0 www.s7.adaces.ero-advertising.com
 0.0.0.0 www.s7k3xa.icu
 0.0.0.0 www.s8powazkowska-modlinska.pl
@@ -75489,6 +75603,7 @@
 0.0.0.0 www.selmorivantux.world
 0.0.0.0 www.selvacorebit.com
 0.0.0.0 www.selvion-xalron.shop
+0.0.0.0 www.selvionaxelis.com
 0.0.0.0 www.selwixapp.com
 0.0.0.0 www.semaxin.pl
 0.0.0.0 www.sembilanfm.blogspot.com
@@ -75613,6 +75728,7 @@
 0.0.0.0 www.sezuyirxo.world
 0.0.0.0 www.sf4.markusbd.com
 0.0.0.0 www.sfalslingu.world
+0.0.0.0 www.sfarbitrevo.com
 0.0.0.0 www.sfd-pl.help
 0.0.0.0 www.sfd.bofrost.sbs
 0.0.0.0 www.sfd.clickss.help
@@ -75742,6 +75858,7 @@
 0.0.0.0 www.shoppingjobshere.com
 0.0.0.0 www.shoppingminds.net
 0.0.0.0 www.shopplk15.convertri.com
+0.0.0.0 www.shopplk18.convertri.com
 0.0.0.0 www.shopplk7.convertri.com
 0.0.0.0 www.shopplk8.convertri.com
 0.0.0.0 www.shopr-app.com
@@ -75983,6 +76100,7 @@
 0.0.0.0 www.skyperec.com
 0.0.0.0 www.skyprofittide.net
 0.0.0.0 www.skyreachharbor.cloud
+0.0.0.0 www.skywardinvexa.com
 0.0.0.0 www.skywardlentrix.com
 0.0.0.0 www.skywardlentrix.net
 0.0.0.0 www.skyway.capital
@@ -76171,6 +76289,7 @@
 0.0.0.0 www.somi.tiktokclaim.eu
 0.0.0.0 www.somideas.com
 0.0.0.0 www.sommer-cnc.com
+0.0.0.0 www.sommorinde.rest
 0.0.0.0 www.sommupopgu.world
 0.0.0.0 www.somnisceramics.com
 0.0.0.0 www.somniumg.info
@@ -76189,6 +76308,7 @@
 0.0.0.0 www.sophrosyneg.info
 0.0.0.0 www.soplinks.com
 0.0.0.0 www.soppesbonz.site
+0.0.0.0 www.sopprdesce.rest
 0.0.0.0 www.sopraacras.pro
 0.0.0.0 www.sopracoesi.world
 0.0.0.0 www.sopraeclip.world
@@ -76344,6 +76464,7 @@
 0.0.0.0 www.spiria.net
 0.0.0.0 www.spiritsguideh.info
 0.0.0.0 www.spirivalen.pro
+0.0.0.0 www.spirosopra.rest
 0.0.0.0 www.spirulinplus.pl
 0.0.0.0 www.spitsmelli.world
 0.0.0.0 www.spizarnianatury.weebly.com
@@ -76384,6 +76505,7 @@
 0.0.0.0 www.sporwest.com
 0.0.0.0 www.sporysz.com
 0.0.0.0 www.sposaruzzo.world
+0.0.0.0 www.spossdesmo.rest
 0.0.0.0 www.spot-18x-sanorex.com
 0.0.0.0 www.spot-4x-viar.com
 0.0.0.0 www.spot-5000-lasix.net
@@ -76511,6 +76633,7 @@
 0.0.0.0 www.stakenivex.com
 0.0.0.0 www.stakim.org
 0.0.0.0 www.stalaspete.pro
+0.0.0.0 www.stalaveggh.rest
 0.0.0.0 www.stalllium.info
 0.0.0.0 www.stalsrubiarnia.pl
 0.0.0.0 www.stampcollectorsh.info
@@ -76801,6 +76924,7 @@
 0.0.0.0 www.stupemonoi.rest
 0.0.0.0 www.stupibenzo.casa
 0.0.0.0 www.stupiriass.world
+0.0.0.0 www.sturaesore.rest
 0.0.0.0 www.sturdygroft.net
 0.0.0.0 www.stuvo.info
 0.0.0.0 www.stuzzingob.world
@@ -77687,6 +77811,7 @@
 0.0.0.0 www.toofunenglish.com
 0.0.0.0 www.toolbarcounter.com
 0.0.0.0 www.toolbazaar.com
+0.0.0.0 www.toolespl.shop
 0.0.0.0 www.toolsside.com
 0.0.0.0 www.toon-families.com
 0.0.0.0 www.toonfamilies.net
@@ -77831,6 +77956,7 @@
 0.0.0.0 www.tradapicks-ai.com
 0.0.0.0 www.trade-20avapro.com
 0.0.0.0 www.trade-500-alora.com
+0.0.0.0 www.trade-6-2-dinexio.com
 0.0.0.0 www.trade-80-definity.com
 0.0.0.0 www.trade-alrex-app.com
 0.0.0.0 www.trade-appai.net
@@ -78531,6 +78657,7 @@
 0.0.0.0 www.updatejunction.com
 0.0.0.0 www.updatenewsalways.com
 0.0.0.0 www.updateodysseyinfo.com
+0.0.0.0 www.updateserviceaccountwebappsasjdnajlwdnwajkfnjafneafcad.hoepfingers.com
 0.0.0.0 www.updatestar.com
 0.0.0.0 www.updo.nl
 0.0.0.0 www.updt-decembe.com
@@ -78553,6 +78680,7 @@
 0.0.0.0 www.upsilonnexifyapp.com
 0.0.0.0 www.upstateplatters.com
 0.0.0.0 www.upvod.pl
+0.0.0.0 www.uquxperfect.top
 0.0.0.0 www.uqz.com
 0.0.0.0 www.uralmetalloprokat.ru
 0.0.0.0 www.urasmakina.com
@@ -78619,6 +78747,7 @@
 0.0.0.0 www.utarget.co.uk
 0.0.0.0 www.utopia-privacy.com
 0.0.0.0 www.utopianuncajamas.blogspot.com
+0.0.0.0 www.utsxlermi.zaplacic.lat
 0.0.0.0 www.uttsfikretpetrol.net
 0.0.0.0 www.uttsfikretpetrol.org
 0.0.0.0 www.utydiwapzwi.qweflasd.com
@@ -78716,6 +78845,7 @@
 0.0.0.0 www.vantaggio.digital
 0.0.0.0 www.vantexusapp-engine.com
 0.0.0.0 www.vantheonlux.net
+0.0.0.0 www.varffinspire.com
 0.0.0.0 www.varicorin.pl
 0.0.0.0 www.varigfinzen-pro.com
 0.0.0.0 www.varigfinzen.com
@@ -79277,7 +79407,6 @@
 0.0.0.0 www.vinted.pl-oferta6728127.icu
 0.0.0.0 www.vinted.pl-oferta6734153.icu
 0.0.0.0 www.vinted.pl-oferta6734157.icu
-0.0.0.0 www.vinted.pl-oferta674286.sbs
 0.0.0.0 www.vinted.pl-oferta674892.sbs
 0.0.0.0 www.vinted.pl-oferta674893.sbs
 0.0.0.0 www.vinted.pl-oferta6783127.icu
@@ -79299,7 +79428,6 @@
 0.0.0.0 www.vinted.pl-oferta80507-google-pixel-10-pro.cfd
 0.0.0.0 www.vinted.pl-oferta8108808-google-pixel-10-pro-xl.sbs
 0.0.0.0 www.vinted.pl-oferta8108808-samsung-galaxy-tab-s9-ultra.sbs
-0.0.0.0 www.vinted.pl-oferta814932.sbs
 0.0.0.0 www.vinted.pl-oferta817285125.sbs
 0.0.0.0 www.vinted.pl-oferta84037449.cfd
 0.0.0.0 www.vinted.pl-oferta84037449.lol
@@ -79554,11 +79682,13 @@
 0.0.0.0 www.vlntedonden.digital
 0.0.0.0 www.vlogerdine.2ix.ch
 0.0.0.0 www.vlotdexlinkapp.com
+0.0.0.0 www.vlotpaycorex-app.com
 0.0.0.0 www.vmay.com
 0.0.0.0 www.vmcsatellite.com
 0.0.0.0 www.vngrammar.org
 0.0.0.0 www.vntanktransport.com
 0.0.0.0 www.vocimitixa.world
+0.0.0.0 www.vocitgable.rest
 0.0.0.0 www.vod-base.com
 0.0.0.0 www.vod-film.pl
 0.0.0.0 www.vod-kino.pl
@@ -79984,6 +80114,7 @@
 0.0.0.0 www.wgtao.com
 0.0.0.0 www.whalecashads.com
 0.0.0.0 www.whatnothost.com
+0.0.0.0 www.whatseamanneed.com
 0.0.0.0 www.whatzupz.com
 0.0.0.0 www.whimwdisin.site
 0.0.0.0 www.whipcrack.org
@@ -80075,6 +80206,7 @@
 0.0.0.0 www.wismalabel.com
 0.0.0.0 www.witamina.c.pl
 0.0.0.0 www.withencrazysave.info
+0.0.0.0 www.withsmanio.pro
 0.0.0.0 www.witkae-warsaw.com
 0.0.0.0 www.witkae-warszawa.com
 0.0.0.0 www.wiviki.org
@@ -80293,6 +80425,7 @@
 0.0.0.0 www.xantralovime.cloud
 0.0.0.0 www.xapobot.net
 0.0.0.0 www.xasugohasaji.today
+0.0.0.0 www.xavierbrooks.shop
 0.0.0.0 www.xavonixtrader-14-dash.com
 0.0.0.0 www.xavonixtrader-14.com
 0.0.0.0 www.xavonixtrader.net
@@ -80509,6 +80642,7 @@
 0.0.0.0 www.xuzaktepyu.cloud
 0.0.0.0 www.xvideoslive.com
 0.0.0.0 www.xvika.net
+0.0.0.0 www.xvp-650-invergo.com
 0.0.0.0 www.xxlykqil.info
 0.0.0.0 www.xxxbannerswap.com
 0.0.0.0 www.xxxbullet.com
@@ -80522,6 +80656,7 @@
 0.0.0.0 www.xyberorenda-app.com
 0.0.0.0 www.xykuwei.com
 0.0.0.0 www.xyrix-pulse-ai.net
+0.0.0.0 www.xyvora-scalaris.com
 0.0.0.0 www.xyvorelintus-app.com
 0.0.0.0 www.xyvorelintus.org
 0.0.0.0 www.xyvorelintusapp.com
@@ -80779,6 +80914,7 @@
 0.0.0.0 www.zamilgroups.com
 0.0.0.0 www.zamintravel.online
 0.0.0.0 www.zamora.axiatraders.com
+0.0.0.0 www.zamow-tktx.pl
 0.0.0.0 www.zamzambeauty.com
 0.0.0.0 www.zaopatrzeni.com
 0.0.0.0 www.zapachowelove.pl
@@ -80828,6 +80964,7 @@
 0.0.0.0 www.zekergainexplatform.com
 0.0.0.0 www.zekiatagur.com
 0.0.0.0 www.zelifosfo.rest
+0.0.0.0 www.zelioraprotocen.com
 0.0.0.0 www.zelmintrax.net
 0.0.0.0 www.zelva-sparkai.net
 0.0.0.0 www.zemejitmuka.cloud
@@ -80851,6 +80988,7 @@
 0.0.0.0 www.zenwarriorwingchun.com
 0.0.0.0 www.zeongrowapp.net
 0.0.0.0 www.zeotrdemur.homes
+0.0.0.0 www.zeqipui6.com
 0.0.0.0 www.zeqonoe.com
 0.0.0.0 www.zerebro-rug.com
 0.0.0.0 www.zergnet.com
@@ -80943,6 +81081,7 @@
 0.0.0.0 www.zoleentax.com
 0.0.0.0 www.zolin-tex.net
 0.0.0.0 www.zolletrist.world
+0.0.0.0 www.zonapsicologia.com
 0.0.0.0 www.zonax.site
 0.0.0.0 www.zondratex.com
 0.0.0.0 www.zondratexapp.net
@@ -81029,6 +81168,8 @@
 0.0.0.0 www.zyrenmint-app.com
 0.0.0.0 www.zyrgoflyntapp.net
 0.0.0.0 www.zyro-blyx.net
+0.0.0.0 www.zyronfundoriax.com
+0.0.0.0 www.zyskbitfundtex-app.com
 0.0.0.0 www.zyskbitfundtex.com
 0.0.0.0 www.zytpirwai.net
 0.0.0.0 www.zyvenyield.net
@@ -81358,6 +81499,7 @@
 0.0.0.0 xapobot.net
 0.0.0.0 xasf32easzx.appspot.com
 0.0.0.0 xasugohasaji.today
+0.0.0.0 xavierbrooks.shop
 0.0.0.0 xavonixtrader-14-dash.com
 0.0.0.0 xavonixtrader-14.com
 0.0.0.0 xavonixtrader.net
@@ -81682,6 +81824,7 @@
 0.0.0.0 xuqeno.xyz
 0.0.0.0 xuzaktepyu.cloud
 0.0.0.0 xvika.net
+0.0.0.0 xvp-650-invergo.com
 0.0.0.0 xvtelink.com
 0.0.0.0 xx.c.appier.net
 0.0.0.0 xxlargepop.com
@@ -81700,6 +81843,7 @@
 0.0.0.0 xyfsd.com
 0.0.0.0 xykuwei.com
 0.0.0.0 xyrix-pulse-ai.net
+0.0.0.0 xyvora-scalaris.com
 0.0.0.0 xyvorelintus-app.com
 0.0.0.0 xyvorelintus.org
 0.0.0.0 xyvorelintusapp.com
@@ -82135,6 +82279,7 @@
 0.0.0.0 zamilgroups.com
 0.0.0.0 zamintravel.online
 0.0.0.0 zamora.axiatraders.com
+0.0.0.0 zamow-tktx.pl
 0.0.0.0 zampolit1990.popunder.ru
 0.0.0.0 zamzambeauty.com
 0.0.0.0 zanaflex.1.p2l.info
@@ -82219,6 +82364,7 @@
 0.0.0.0 zekiatagur.com
 0.0.0.0 zeldalily.us.intellitxt.com
 0.0.0.0 zelifosfo.rest
+0.0.0.0 zelioraprotocen.com
 0.0.0.0 zelmintrax.net
 0.0.0.0 zelva-sparkai.net
 0.0.0.0 zem.outbrainimg.com
@@ -82252,6 +82398,7 @@
 0.0.0.0 zeongrowapp.net
 0.0.0.0 zeotrdemur.homes
 0.0.0.0 zephyrlabyrinth.com
+0.0.0.0 zeqipui6.com
 0.0.0.0 zeqonoe.com
 0.0.0.0 zer9g.com
 0.0.0.0 zerebro-rug.com
@@ -82404,6 +82551,7 @@
 0.0.0.0 zoloft.1.p2l.info
 0.0.0.0 zoloft.3.p2l.info
 0.0.0.0 zoloft.4.p2l.info
+0.0.0.0 zonapsicologia.com
 0.0.0.0 zonawm.biz.popunder.ru
 0.0.0.0 zonax.site
 0.0.0.0 zondratex.com
@@ -82521,9 +82669,11 @@
 0.0.0.0 zyrenmint-app.com
 0.0.0.0 zyrgoflyntapp.net
 0.0.0.0 zyro-blyx.net
+0.0.0.0 zyronfundoriax.com
 0.0.0.0 zyrtec.1.p2l.info
 0.0.0.0 zyrtec.3.p2l.info
 0.0.0.0 zyrtec.4.p2l.info
+0.0.0.0 zyskbitfundtex-app.com
 0.0.0.0 zyskbitfundtex.com
 0.0.0.0 zytpirwai.net
 0.0.0.0 zyvenyield.net
