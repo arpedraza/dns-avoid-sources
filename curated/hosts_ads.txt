@@ -92194,7 +92194,6 @@
 0.0.0.0 asmtp.69postix.info
 0.0.0.0 asmtp.advantisgva.com
 0.0.0.0 asn24.onesignal.com
-0.0.0.0 asnwish.com
 0.0.0.0 asnyder.clickfunnels.com
 0.0.0.0 aso-sabo.info
 0.0.0.0 aso1.net
@@ -212184,6 +212183,7 @@
 0.0.0.0 improvementscatalog.btttag.com
 0.0.0.0 improveyourhealth.leadpages.co
 0.0.0.0 improvides.leadpages.co
+0.0.0.0 improving.duckduckgo.com
 0.0.0.0 imprsgmp.taboola.com
 0.0.0.0 impru.tradedoubler.com
 0.0.0.0 imprusmp.taboola.com
@@ -282936,6 +282936,7 @@
 0.0.0.0 nczy.doma2.info
 0.0.0.0 nd.2223301.vtunnelyoutube.com
 0.0.0.0 nd.demdex.net
+0.0.0.0 nd.prosilyingles.cyou
 0.0.0.0 nd136.infusionsoft.com
 0.0.0.0 nd241.infusionsoft.com
 0.0.0.0 nd377.infusionsoft.com
@@ -302560,6 +302561,7 @@
 0.0.0.0 orwell.chello.at
 0.0.0.0 orybour.cwebh.org
 0.0.0.0 oryj8-jzbmc.ads.tremorhub.com
+0.0.0.0 orylhull.com
 0.0.0.0 orywrjsf.com
 0.0.0.0 orz86.cn.db-ip.com
 0.0.0.0 orztb.voluumtrk.com
@@ -304410,6 +304412,7 @@
 0.0.0.0 oymao.rdtk.io
 0.0.0.0 oynxmedia.affise.com
 0.0.0.0 oynxmedia.g2afse.com
+0.0.0.0 oyo4d.com
 0.0.0.0 oysbq.voluumtrk.com
 0.0.0.0 oyunbizimisimizknq.000webhostapp.com
 0.0.0.0 oyunlar112.com
@@ -314042,6 +314045,7 @@
 0.0.0.0 pixel.moatads.compixel.moatads.com
 0.0.0.0 pixel.monitor1.returnpath.net
 0.0.0.0 pixel.monitor2.returnpath.net
+0.0.0.0 pixel.morphify.net
 0.0.0.0 pixel.mparticle.com
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.nc0.co
@@ -344831,6 +344835,7 @@
 0.0.0.0 saicool.cn.db-ip.com
 0.0.0.0 saicotsflapmemb.webcindario.com
 0.0.0.0 said.clickfunnels.com
+0.0.0.0 saidairakas.com
 0.0.0.0 saidamz.clickfunnels.com
 0.0.0.0 saidevar.beta.skywave.jetstream.advertising.a2z.com
 0.0.0.0 saif.totalh.net
@@ -410244,6 +410249,7 @@
 0.0.0.0 waardex.g2afse.com
 0.0.0.0 waardex.rtb.adx1.com
 0.0.0.0 waati-quechoisir-org-cddc.at-o.net
+0.0.0.0 wabjcepuqmi.com
 0.0.0.0 wabtec.actonsoftware.com
 0.0.0.0 wac-ei.trafficfactory.biz
 0.0.0.0 waca.containers.piwik.pro
