@@ -64816,6 +64816,7 @@
 0.0.0.0 ad.th.doubleclick.net
 0.0.0.0 ad.thewheelof.com
 0.0.0.0 ad.thsi.cn
+0.0.0.0 ad.tiktokv.us
 0.0.0.0 ad.top50.to
 0.0.0.0 ad.toutiao.com
 0.0.0.0 ad.tr.doubleclick.net
@@ -68289,6 +68290,7 @@
 0.0.0.0 ads-iad2-lb8.adsymptotic.com
 0.0.0.0 ads-iad2.adsymptotic.com
 0.0.0.0 ads-icl.googleusercontent.com
+0.0.0.0 ads-ie.tiktokw.eu
 0.0.0.0 ads-igmn.adhese.com
 0.0.0.0 ads-image.adelement.com
 0.0.0.0 ads-img.mozilla.org
@@ -68416,6 +68418,7 @@
 0.0.0.0 ads-trf.adhese.com
 0.0.0.0 ads-trk-stage.vidible.tv
 0.0.0.0 ads-trk.vidible.tv
+0.0.0.0 ads-ttp2.tiktokw.eu
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads-txt-01.cedato.com
 0.0.0.0 ads-txt-validator.loopme.com
@@ -69258,6 +69261,7 @@
 0.0.0.0 ads.tidaltv.com
 0.0.0.0 ads.tiki.vn
 0.0.0.0 ads.tiktok.com
+0.0.0.0 ads.tiktokw.us
 0.0.0.0 ads.timeout.com
 0.0.0.0 ads.tjwi.info
 0.0.0.0 ads.tmcs.net
@@ -78583,6 +78587,7 @@
 0.0.0.0 amhi.demdex.net
 0.0.0.0 amhlaidhmasuyo951.gigazu.net
 0.0.0.0 amhlcxl1.micpn.com
+0.0.0.0 amhrzucur.com
 0.0.0.0 ami-d.openx.net
 0.0.0.0 ami.iptrack.io
 0.0.0.0 amianalog.ck.page
@@ -79388,6 +79393,7 @@
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-http.mintegral.net
+0.0.0.0 analytics-ie.tiktokw.eu
 0.0.0.0 analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-ios-a.rayjump.com
@@ -79426,6 +79432,7 @@
 0.0.0.0 analytics-test.groupm.com
 0.0.0.0 analytics-track.machbird.com
 0.0.0.0 analytics-tracking.meetup.com
+0.0.0.0 analytics-ttp2.tiktokw.eu
 0.0.0.0 analytics-tx.tdameritrade.com
 0.0.0.0 analytics-uat-agconsul.uat.dev.sizmdx.com
 0.0.0.0 analytics-uat.groupm.com
@@ -79824,6 +79831,7 @@
 0.0.0.0 analytics.tidaltv.com
 0.0.0.0 analytics.tiki.vn
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 analytics.tiktokw.us
 0.0.0.0 analytics.touchdownworld.cz
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.trafficfactory.biz
@@ -95712,11 +95720,14 @@
 0.0.0.0 auto-importer-api-dev.ingestion.liveramp.com
 0.0.0.0 auto-importer-api.ingestion.liveramp.com
 0.0.0.0 auto-load-balancer.advividnetwork.com
+0.0.0.0 auto-load-balancer.likr.com.tw
+0.0.0.0 auto-load-balancer.likr.tw
 0.0.0.0 auto-motor.onesignal.com
 0.0.0.0 auto-mouse-mover.apponic.com
 0.0.0.0 auto-pilot.leadpages.co
 0.0.0.0 auto-presse.de.intellitxt.com
 0.0.0.0 auto-px.dynamicyield.com
+0.0.0.0 auto-satellite.advividnetwork.com
 0.0.0.0 auto-service.de.intellitxt.com
 0.0.0.0 auto-ssl.qwilr.com
 0.0.0.0 auto-types.onesignal.com
@@ -114602,6 +114613,7 @@
 0.0.0.0 busideaa.clickfunnels.com
 0.0.0.0 businesbestellen.000webhostapp.com
 0.0.0.0 business-api.tiktok.com
+0.0.0.0 business-api.tiktokw.us
 0.0.0.0 business-class.refersion.com
 0.0.0.0 business-girl-academy.leadpages.co
 0.0.0.0 business-ideas.gettop.info
@@ -196554,6 +196566,7 @@
 0.0.0.0 gt.igexin.com
 0.0.0.0 gt.info.lgsmartad.com
 0.0.0.0 gt.pronosticodeltiempo.info
+0.0.0.0 gt.unbrownunflat.com
 0.0.0.0 gt214.infusionsoft.com
 0.0.0.0 gt260.infusionsoft.com
 0.0.0.0 gt30.mjt.lu
@@ -207795,6 +207808,7 @@
 0.0.0.0 icu.adnxs.com
 0.0.0.0 icu.adswizz.com
 0.0.0.0 icu.domain.name
+0.0.0.0 icu.newsroom.bi
 0.0.0.0 icubeswire.com
 0.0.0.0 icubeswire.g2afse.com
 0.0.0.0 icubeswire.go2affise.com
@@ -220720,6 +220734,7 @@
 0.0.0.0 jnakrkgfn.sotreq.net
 0.0.0.0 jnb-v4.pops.fastly-insights.com
 0.0.0.0 jnbcasfbafvbjbac213kjbjisdlvbijbas.000webhostapp.com
+0.0.0.0 jnbhi.com
 0.0.0.0 jnbo-app.quantummetric.com
 0.0.0.0 jnbo-sync.quantummetric.com
 0.0.0.0 jnbt3d.com.db-ip.com
@@ -231555,6 +231570,7 @@
 0.0.0.0 ksu.shareaholic.com
 0.0.0.0 ksuncyui.webcindario.com
 0.0.0.0 ksvirus.accountkit.com
+0.0.0.0 ksvjmvrjjo.com
 0.0.0.0 ksvz.yapage.info
 0.0.0.0 ksy86.adj.st
 0.0.0.0 ksyun.cedexis.com
@@ -262083,12 +262099,15 @@
 0.0.0.0 mcrtw5zb8tsznm6kxghg-gfdfd-4.login-qa3.exacttarget.com
 0.0.0.0 mcrwddpubgs18.dnset.com
 0.0.0.0 mcrwditem18nett.dnset.com
+0.0.0.0 mcs-ie.tiktokw.eu
+0.0.0.0 mcs-ie2.tiktokw.eu
 0.0.0.0 mcs-sg.tiktok.com
 0.0.0.0 mcs-va.capcutapi.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.eyereturn.com
 0.0.0.0 mcs.liveperson.net
 0.0.0.0 mcs.snssdk.com
+0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcs.zijieapi.com
 0.0.0.0 mcs16-normal-us-ttp.capcutapi.us
@@ -271624,6 +271643,7 @@
 0.0.0.0 mssbcloudsc73578190us1.cobrowse.oraclecloud.com
 0.0.0.0 mssdk-sg.tiktokv.com.domain.name
 0.0.0.0 mssdk.capcutapi.us
+0.0.0.0 mssdk.tiktokw.eu
 0.0.0.0 mssdk.tiktokw.us
 0.0.0.0 mssdk22-normal-alisg.tiktokv.com.domain.name
 0.0.0.0 msserverpro.onesignal.com
@@ -303264,6 +303284,7 @@
 0.0.0.0 overflow.clickfunnels.com
 0.0.0.0 overforward-totals.000webhostapp.com
 0.0.0.0 overgreat-translato.000webhostapp.com
+0.0.0.0 overgreedyminddegree.com
 0.0.0.0 overgrown-knot.000webhostapp.com
 0.0.0.0 overhangclimbing.refersion.com
 0.0.0.0 overheaddoorandfirep1.rtrk.com
@@ -327209,6 +327230,7 @@
 0.0.0.0 pyextract.aweber.com
 0.0.0.0 pyhel.voluumtrk.com
 0.0.0.0 pyi1fmxu.emltrk.com
+0.0.0.0 pyicbcxvs.com
 0.0.0.0 pyj30372.pyxis.iad.appboy.com
 0.0.0.0 pyj6n.voluumtrk.com
 0.0.0.0 pyjamabosses.clickfunnels.com
@@ -459624,6 +459646,7 @@
 0.0.0.0 xp.apple.com131788053.log.optimizely.comaccounts.google.comad.sxp.smartclip.net
 0.0.0.0 xp.clickfunnels.com
 0.0.0.0 xp.keen.io
+0.0.0.0 xp.retinichawks.cyou
 0.0.0.0 xp.saas.appdynamics.com
 0.0.0.0 xp.umeng.com
 0.0.0.0 xp070135.win.corp.com
